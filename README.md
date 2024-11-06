@@ -45,18 +45,12 @@ This sequence ensures that the application always has the latest reviews, classi
    cd dice_dreams
    ```
 
-2. **Set up the virtual environment:**
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install Python dependencies:**
+2. **Install Python dependencies:**
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Install Node.js dependencies:**
+3. **Install Node.js dependencies:**
    ```sh
    npm install
    ```
