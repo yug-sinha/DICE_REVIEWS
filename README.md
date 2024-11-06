@@ -42,8 +42,9 @@ This sequence ensures that the application always has the latest reviews, classi
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yug-sinha/DICE_REVIEWS.git
-   cd dice_dreams
+   cd DICE_REVIEWS
    ```
+   - might throw a few errors, can be ignored
 
 2. **Install Python dependencies:**
    ```sh
