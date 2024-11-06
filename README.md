@@ -19,7 +19,7 @@ This project is a web application that scrapes reviews from the Google Play Stor
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/dice_dreams.git
+   git clone https://github.com/yug-sinha/DICE_DREAMS.git
    cd dice_dreams
    ```
 
