@@ -1,7 +1,3 @@
-Here's the updated README file with sample API requests/responses, setup instructions, and cost estimation for running the system in production:
-
----
-
 # Dice Dreams Review Classifier
 
 This project is a web application that scrapes reviews from the Google Play Store for the "Dice Dreams" app, classifies them into categories, performs sentiment analysis, and displays the results on a web page.
@@ -214,8 +210,6 @@ This project is licensed under the MIT License.
 - **ChatGPT**: For assistance in generating parts of this README.
 
 ---
-
-Feel free to customize this README file further to suit your project's needs! If you have any questions or need additional help, let me know.
 
 Source: Conversation with Copilot, 11/6/2024
 (1) Calculate Web App Development Cost On Your Own in 2024 - Monocubed. https://www.monocubed.com/blog/web-app-development-cost/.
