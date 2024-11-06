@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Dreams Review Classification</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .review {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .review-header {
+            display: flex;
+            align-items: center;
+        }
+        .review-header div {
+            margin-left: 10px;
+        }
+        .rating {
+            color: gold;
+        }
+        .filter {
+            margin-bottom: 20px;
+        }
+        .review-count {
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dice Dreams Review Classification - <span id="current-date"></span></h1>
+    <div class="filter">
+        <label for="filter-date">Filter by Date:</label>
+        <select id="filter-date">
+            <option value="all">All Dates</option>
+        </select>
+        <label for="filter-category">Filter by Category:</label>
+        <select id="filter-category">
+            <option value="all">All</option>
+            <option value="bugs">Bugs</option>
+            <option value="complaints">Complaints</option>
+            <option value="crashes">Crashes</option>
+            <option value="praises">Praises</option>
+            <option value="other">Other</option>
+        </select>
+        <button id="apply-filter">Apply Filter</button>
+    </div>
+    <div class="review-count" id="review-count">Total Reviews: 0</div>
+    <div id="reviews"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Display the current date
+            const currentDateElement = document.getElementById('current-date');
+            const today = new Date();
+            currentDateElement.textContent = today.toISOString().split('T')[0];
+
+            const filterDate = document.getElementById('filter-date');
+            for (let i = 1; i <= 7; i++) {
+                const date = new Date(today);
+                date.setDate(today.getDate() - i);
+                const option = document.createElement('option');
+                option.value = date.toISOString().split('T')[0];
+                option.textContent = date.toISOString().split('T')[0];
+                filterDate.appendChild(option);
+            }
+
+            // Fetch and display all reviews on page load
+            fetch('/classified-reviews')
+                .then(response => response.json())
+                .then(data => {
+                    displayReviews(data);
+                })
+                .catch(error => console.error('Error loading reviews:', error));
+        });
+
+        document.getElementById('apply-filter').addEventListener('click', function() {
+            const filterDate = document.getElementById('filter-date').value;
+            const filterCategory = document.getElementById('filter-category').value.toLowerCase();
+            fetch('/classified-reviews')
+                .then(response => response.json())
+                .then(data => {
+                    const filteredReviews = data.filter(review => {
+                        const reviewDate = new Date(review.review_date);
+                        reviewDate.setHours(0, 0, 0, 0); // Normalize the review date to midnight
+                        const selectedDate = new Date(filterDate);
+                        selectedDate.setHours(0, 0, 0, 0); // Normalize the selected date to midnight
+                        return (filterCategory === 'all' || review.category.toLowerCase() === filterCategory) && (filterDate === 'all' || reviewDate.getTime() === selectedDate.getTime());
+                    });
+                    displayReviews(filteredReviews);
+                })
+                .catch(error => console.error('Error filtering reviews:', error));
+        });
+
+        function displayReviews(reviews) {
+            const reviewsContainer = document.getElementById('reviews');
+            const reviewCount = document.getElementById('review-count');
+            reviewsContainer.innerHTML = ''; // Clear previous reviews
+            reviewCount.textContent = `Total Reviews: ${reviews.length}`; // Update review count
+            reviews.forEach(review => {
+                const reviewElement = document.createElement('div');
+                reviewElement.className = 'review';
+
+                const reviewHeader = document.createElement('div');
+                reviewHeader.className = 'review-header';
+
+                const headerInfo = document.createElement('div');
+                headerInfo.innerHTML = `<strong>${review.name}</strong><br><span class="rating">${'★'.repeat(review.review_rating)}</span><br><small>${review.review_date}</small><br><small>Category: ${review.category || 'N/A'}</small>`;
+                reviewHeader.appendChild(headerInfo);
+
+                reviewElement.appendChild(reviewHeader);
+
+                const snippet = document.createElement('p');
+                snippet.textContent = review.review_snippet;
+                reviewElement.appendChild(snippet);
+
+                reviewsContainer.appendChild(reviewElement);
+            });
+        }
+    </script>
+</body>
+</html>
