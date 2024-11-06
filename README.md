@@ -1,6 +1,6 @@
 # Dice Dreams Review Classifier
 
-This project is a web application that scrapes reviews from the Google Play Store for the "Dice Dreams" app, classifies them into categories, performs sentiment analysis, and displays the results on a web page.
+This project is a web application that scrapes reviews from the Google Play Store for the "Dice Dreams" app, classifies them into categories, performs sentiment analysis, and displays the results on a web page (please set up your own SerpAPI key in the scrape_reviews.js file).
 
 ## Table of Contents
 
