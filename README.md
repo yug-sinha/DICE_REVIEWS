@@ -1,6 +1,28 @@
 # Dice Dreams Review Classifier
 
 This project is a web application that scrapes reviews from the Google Play Store for the "Dice Dreams" app, classifies them into categories, performs sentiment analysis, and displays the results on a web page (please set up your own SerpAPI key in the scrape_reviews.js file).
+- I attempted to deploy the application; however, the deployment process was hindered due to the presence of Large File Storage (LFS) files. Consequently, the limit for creating additional Git deployments has been exceeded. Please find the attached proof for your reference.
+- ![image](https://github.com/user-attachments/assets/507c4bda-97e8-44a3-b3d2-816ccdcfeff2)
+
+
+# Logic of the Web Application
+1. **Implementation of `scrape_reviews.js`**:
+   - The script checks if the latest reviews exist by verifying the creation date of the `fetch.json` file.
+   - If `fetch.json` was created today, it assumes the latest reviews have already been fetched and does not run the scraper.
+   - If `fetch.json` does not exist or was not created today, it runs the scraper to fetch the latest reviews from the Google Play Store and saves them to `fetch.json`.
+
+2. **Implementation of `classify_reviews.py`**:
+   - This script loads the reviews from `fetch.json`.
+   - It classifies each review into categories such as Bugs, Complaints, Crashes, Praises, and Other based on keywords.
+   - It performs sentiment analysis on each review using NLTK's VADER sentiment analyzer.
+   - The classified reviews, along with their sentiment scores, are saved to `classified_reviews.json`.
+
+3. **Launch of the HTML Front End**:
+   - The `script.py` script orchestrates the execution of the above steps.
+   - After running `scrape_reviews.js` and `classify_reviews.py`, it starts a Flask web server.
+   - The Flask server serves the `index.html` file and provides an endpoint to access the classified reviews (`/classified-reviews`).
+
+This sequence ensures that the application always has the latest reviews, classifies them appropriately, and makes the results accessible through a web interface.
 
 ## Table of Contents
 
@@ -208,6 +230,10 @@ This project is licensed under the MIT License.
 - **Flask**: For the web framework.
 - **Postman**: For testing API requests and responses.
 - **ChatGPT**: For assistance in generating parts of this README.
+
+## Video Demonstration
+https://github.com/user-attachments/assets/0b5cba2d-70b2-4ea5-a379-b0e10fe4163b
+
 
 ---
 
