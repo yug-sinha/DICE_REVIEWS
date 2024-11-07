@@ -5,8 +5,8 @@ This project is a web application that scrapes reviews from the Google Play Stor
 Due to my limited experience with AWS Amplify, I encountered difficulties in successfully deploying the web application. However, the application is now deployed and can be accessed via the following URL:
  - The application is now deployed on AWS Amplify. You can access it using the following credentials:
  - URL: https://main.d31wt9c9s96zr2.amplifyapp.com/
-      Username: segwise.yug
-      Password: yug8086
+  - Username: segwise.yug
+  - Password: yug8086
 
 
 # Logic of the Web Application
