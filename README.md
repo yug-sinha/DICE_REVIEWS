@@ -15,6 +15,9 @@ Due to my limited experience with AWS Amplify, I encountered difficulties in suc
    - If `fetch.json` does not exist or was not created today, it runs the scraper to fetch the latest reviews from the Google Play Store and saves them to `fetch.json`.
    - This logic wont work when you will try to run this locally as it will presume that the fetch.json file was created today, because it would have been downloaded on the same day from the git repository so you will have to delete the current fetch.json file and then launch the application (MAKE SURE TO USE YOUR OWN API KEY).
 
+# Video Demonstration: How to get SerpAPI key
+https://youtu.be/-H9yN_jl4FQ?si=hWX34mclXiRuoC5K
+
 2. **Implementation of `classify_reviews.py`**:
    - This script loads the reviews from `fetch.json`.
    - It classifies each review into categories such as Bugs, Complaints, Crashes, Praises, and Other based on keywords.
@@ -226,6 +229,9 @@ This project is licensed under the MIT License.
 
 ## Video Demonstration
 https://github.com/user-attachments/assets/0b5cba2d-70b2-4ea5-a379-b0e10fe4163b
+
+
+https://github.com/user-attachments/assets/1bfff606-b0ce-45de-aa56-0d6b68ab0989
 
 
 ---
