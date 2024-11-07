@@ -1,3 +1,3 @@
-Flask==2.0.3
+Flask>=2.2.5
 nltk==3.6.7
 serpapi==0.1.5
