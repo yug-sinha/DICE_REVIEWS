@@ -13,6 +13,7 @@ Due to my limited experience with AWS Amplify, I encountered difficulties in suc
    - The script checks if the latest reviews exist by verifying the creation date of the `fetch.json` file.
    - If `fetch.json` was created today, it assumes the latest reviews have already been fetched and does not run the scraper.
    - If `fetch.json` does not exist or was not created today, it runs the scraper to fetch the latest reviews from the Google Play Store and saves them to `fetch.json`.
+   - This logic wont work when you will try to run this locally as it will presume that the fetch.json file was created today, because it would have been downloaded on the same day from the git repository so you will have to delete the current fetch.json file and then launch the application (MAKE SURE TO USE YOUR OWN API KEY).
 
 2. **Implementation of `classify_reviews.py`**:
    - This script loads the reviews from `fetch.json`.
