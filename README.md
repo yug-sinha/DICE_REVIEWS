@@ -1,8 +1,12 @@
 # Dice Dreams Review Classifier
 
 This project is a web application that scrapes reviews from the Google Play Store for the "Dice Dreams" app, classifies them into categories, performs sentiment analysis, and displays the results on a web page (please set up your own SerpAPI key in the scrape_reviews.js file).
-- I attempted to deploy the application; however, the deployment process was hindered due to the presence of Large File Storage (LFS) files. Consequently, the limit for creating additional Git deployments has been exceeded. Please find the attached proof for your reference.
-- ![image](https://github.com/user-attachments/assets/507c4bda-97e8-44a3-b3d2-816ccdcfeff2)
+
+Due to my limited experience with AWS Amplify, I encountered difficulties in successfully deploying the web application. However, the application is now deployed and can be accessed via the following URL:
+ - The application is now deployed on AWS Amplify. You can access it using the following credentials:
+ - URL: https://main.d31wt9c9s96zr2.amplifyapp.com/
+      Username: segwise.yug
+      Password: yug8086
 
 
 # Logic of the Web Application
