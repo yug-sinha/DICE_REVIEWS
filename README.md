@@ -170,32 +170,26 @@ GET http://localhost:5000/classified-reviews
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/dice_dreams.git
-   cd dice_dreams
+   git clone https://github.com/yug-sinha/DICE_REVIEWS.git
+   cd DICE_REVIEWS
    ```
 
-2. **Set up the virtual environment:**
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install Python dependencies:**
+2. **Install Python dependencies:**
    ```sh
    pip install -r requirements.txt
    ```
 
-4. **Install Node.js dependencies:**
+3. **Install Node.js dependencies:**
    ```sh
    npm install
    ```
 
-5. **Run the main script:**
+4. **Run the main script:**
    ```sh
    python script.py
    ```
 
-6. **Access the web application:**
+5. **Access the web application:**
    Open your browser and go to `http://localhost:5000/`.
 
 ## Cost Estimation
