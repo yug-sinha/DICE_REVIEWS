@@ -1,5 +1,2690 @@
 [
     {
+        "name": "Shahzeb Gujjar",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLt5j4RwUaQwiCkgBElasU1lGIDBPH8g2jLE6RV7Y_67yjjgw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "my wallet is best earning game",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.543,
+            "pos": 0.457,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Chrystal Burns",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVcyN7TADt4ho8FYtNz41X2gfsX8hiNgc0WMTCnE85vTJtYvJ3r",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Very Fun game, and has no annoying ads when you finish a lvl or every 14 seconds",
+        "review_date": "November 06, 2024",
+        "category": "Complaints",
+        "sentiment": {
+            "neg": 0.228,
+            "neu": 0.605,
+            "pos": 0.167,
+            "compound": -0.079
+        }
+    },
+    {
+        "name": "William Barnes",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLSLQ0WdGE4TKkTstvZzFB-vMH85O6lNjVKrNmDEtsbTlQJGA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "It is a really fun and cool game",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.448,
+            "pos": 0.552,
+            "compound": 0.7316
+        }
+    },
+    {
+        "name": "Rashawn Braxton",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKajVHgvEFmfVRnmEa453jFEU7_2GiWAx4hGweIPRylv3kgpw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great game I just started playing and I'm already hooked. Great game guys,good job to everyone who was involved.",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.6,
+            "pos": 0.4,
+            "compound": 0.875
+        }
+    },
+    {
+        "name": "Mark",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXfmYJM4kse5PRULWQ_B9WTJR4SsXTMdO_LJAlLjz7uqGlem5o",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "It's fun destroying other kingdoms and not getting in trouble for it's a fun game",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.16,
+            "neu": 0.445,
+            "pos": 0.394,
+            "compound": 0.6437
+        }
+    },
+    {
+        "name": "Amanda Bowman",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVFN0trT4xdKbmoKHa-DAKosS8YqFqE-U5aOMl-wC5pUu4u0QY",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "Love this game, it sometimes glitches a little and it takes awhile to load but it's a good game! Thank you!",
+        "review_date": "November 06, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.609,
+            "pos": 0.391,
+            "compound": 0.8829
+        }
+    },
+    {
+        "name": "Cathy Counts",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKJ1aLvUidLwqVtP8N5zT_p837PR_LtVqS82nlklczDOlg3daY=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Lately it's the best game I've been playing entertaining fun and really relaxin",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.345,
+            "pos": 0.655,
+            "compound": 0.9348
+        }
+    },
+    {
+        "name": "Teresa Hernandez",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXDiWlm4i7XX8oi6gc7wYUQi6_UXv-en2sWL7bRIPaMLc1ztewW",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Game is great love it",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.265,
+            "pos": 0.735,
+            "compound": 0.8519
+        }
+    },
+    {
+        "name": "Kurtis Kelchner",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocK6vHEjz3jEmgvY7WsyZj9Rz38RemBGmJcq76vbpBz2ows_5w=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Dope",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Savannah Clark",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWyfrtPvCmaIsneJIDD2hSSiDNshtNGzEDwWMci2xGvo5eHoUBm_A",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I love this game",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Vicky Ann Griffin (Victoria)",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjX3kI34LU-re_QmYVZ6holXRocrBLThAWV0KLyDBM-1CWxpPnKm",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Very fun & cute game",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.225,
+            "pos": 0.775,
+            "compound": 0.7828
+        }
+    },
+    {
+        "name": "Anna Marshall",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW-rqtJYema1AwbP1eLcid-1mliAynqf-Jk15JZ3GDuUTrZHjf3",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Wasn't sure if this game at first but I am having fun paying it now. Thanks",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.068,
+            "neu": 0.551,
+            "pos": 0.381,
+            "compound": 0.8325
+        }
+    },
+    {
+        "name": "Sybilla Cross",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocK0lqHCeabQVywt7RsPzsG8iCoh6rmh4AHWg-s-8kkcaP1P0Iw=mo",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "You don't get very many dice so it's a slow go on the game",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "James \u201cNubbs\u201d Kirk",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLPGTv8eos6jfa3Pkd8isfbf4Shj3P7nU5Uu9szKXwQQBwzjQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Crazy cool",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.511,
+            "neu": 0.0,
+            "pos": 0.489,
+            "compound": -0.0258
+        }
+    },
+    {
+        "name": "Leslie Bell",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUVzguH2q7SZ9FIVsOWOmQnOvK3IuidKCd6dzs1tTgZGQBKKiM-",
+        "review_rating": 5,
+        "review_likes": 2,
+        "review_snippet": "Updated review, Dice dream has some issues with the game glitching but overall I'm very happy with the outcome and my gaming experience. Way to go, this is how good customer service should be and your team is top notch when it comes to resolving any issue! Thank you dice dreams keep up the great work!!!",
+        "review_date": "November 06, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.615,
+            "pos": 0.385,
+            "compound": 0.9849
+        }
+    },
+    {
+        "name": "Susan Smith",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVggNIbZfeTQQcFnImcL9ee32g-bHpKvZb9AKBgnDxW1TWkTIe0",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love it!",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.182,
+            "pos": 0.818,
+            "compound": 0.6696
+        }
+    },
+    {
+        "name": "Martha Franklin",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKDDDYmSDtO5LsNMmeaZep9A5vLWWtntTrC6SssjCUnV0KqyQ=mo",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "Much easyer to understand how to play game.",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.745,
+            "pos": 0.255,
+            "compound": 0.34
+        }
+    },
+    {
+        "name": "Tensley McLendon",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJGfnmC6IdsSPcrAlMU8c1e4FDaV3YQcsqLxEAA2FH41zcd2A=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "it's a fun game to pass the time",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.645,
+            "pos": 0.355,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Brian",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVKG0848ouRqOymiWiMDmFpBKY2pbdm-Dbnn1BQwOCheo2FD1GjBA",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun!",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5562
+        }
+    },
+    {
+        "name": "Tony Greentop",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV7hWaWlGIDJD5NIUuBKM9ViNFT5InRdI7Zy7jHQpN2ryTHlyBm",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Terrific Fun \ud83d\ude0a for the entire family!",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.374,
+            "pos": 0.626,
+            "compound": 0.7712
+        }
+    },
+    {
+        "name": "Coby Lavalle",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLIjTL4UnVunD6pkNr3l1lLOz3AQPcPXsGZHUogmbTo3vyOFQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Good",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4404
+        }
+    },
+    {
+        "name": "Bella Rosa",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKOuW1iI0CFEjGvKd7kiJRuz3MrCHRWsdIfAhvcowOJMPGJQg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "The game has lots of detailed and extremely bright colors so very much fun to play laughed so much playing it . any age will enjoy this game ..",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.554,
+            "pos": 0.446,
+            "compound": 0.9494
+        }
+    },
+    {
+        "name": "\u092f\u094b\u0917\u0947\u0936 \u0916\u0921\u094d\u0915\u093e",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXls8H2gdyrCfGcII_i7O9NIYbx6y5pZ4pI8gKdHItK-hVgNHaT",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Most enjoy",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.223,
+            "pos": 0.777,
+            "compound": 0.5413
+        }
+    },
+    {
+        "name": "Lakisha Whiten",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVpTmRCNVZ5S_8yhWPVxFTHXsV15_9U71hGLpI4kQJQmye5Ah3OUA",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun game..",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.233,
+            "pos": 0.767,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Betzabe Arzola",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVFymCqIVdurbN8m5Jwc9rH5V7OPi64e6jUXK8BpeJ7IY6ktqrgnA",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Addicted",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Lita Maria Cruz",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJtDgkuIoTRGU5nvRexNYX2d7ZX1CZzSnKVC3TkgYIUtREJ_Q=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun and easy",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.139,
+            "pos": 0.861,
+            "compound": 0.7351
+        }
+    },
+    {
+        "name": "Donald Haigler",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV-_shu4sj2yxT6p5kWLNALZnAvVq3nhfXkrQuHu99Q3fGI2a0A",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Rebecca Ryan",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJqahQlaNNcT1JiMY_cAuW0rLXQNMipckjoYGKF3RmB4Wp89g=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Such a fun and cute game!!!",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.295,
+            "pos": 0.705,
+            "compound": 0.8007
+        }
+    },
+    {
+        "name": "Connie Kaigler",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJbHe2aubGlzyreEVP9KxXWyAXxpmrryY3MQgvVIs6R8gb8EPbh=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "So much fun!!!!",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Carlos Alexander",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJuT65QlacWPweFhvv36mEnXvsyoDHxz8y0N3OpykTa5Znbpg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Sanju Suraj",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJWMz3t27CVKybEY4V5otdsGiYfjgGbkty6D7N08SgpQt_OlAU=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Nice",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4215
+        }
+    },
+    {
+        "name": "craz macmaid",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXizyB8SCPsTIo59yD2yYJtRmulOlcjZTjDeXYGBuGoT5zyaxvJ",
+        "review_rating": 5,
+        "review_likes": 1,
+        "review_snippet": "Good game and the defense when your not online is good. However they need to have 10 shields instead of 3. Also they bounce around to different players and they should make it where you pick who you wanna attack, that way you have to remember the shields. Other than that it's a fun game. 1 more thing, make different attack and defense sequence to make it more funny.",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.108,
+            "neu": 0.738,
+            "pos": 0.155,
+            "compound": 0.419
+        }
+    },
+    {
+        "name": "Michelle G",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocINoHa-ZvaYnBzqRAKSx3uWr9eBIf_rsXrJEm14-YVtRKw70A=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Having fun when I have dice to play",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.467,
+            "pos": 0.533,
+            "compound": 0.6908
+        }
+    },
+    {
+        "name": "Rose Cox",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJDdTXdWtvvfsm2C9Smq34Eq_usqwdEFPOZH36vvL5n-TnnWg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "David Mills",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJvdbQ6FY2PxN_kBzIfJGztKmmUEqfxEcw2uqHLEYSGwkxkfQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Denzel",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKNC6GoyYIiV_Z_AE_TMS3oSJxhRT8cFSD1FSMYEwaA3IZL9A=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun way to kill time",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.427,
+            "neu": 0.273,
+            "pos": 0.3,
+            "compound": -0.34
+        }
+    },
+    {
+        "name": "Melinda Threatt",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLPdsXFjTNrFXq6zGhRPLUrdmryR7OGtfOW-3a7N3V4NbZTOJMu=mo",
+        "review_rating": 5,
+        "review_likes": 1,
+        "review_snippet": "Just advanced to new level but I think it's really too many coins to make it to the end of the kingdom to advance the levels..",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.941,
+            "pos": 0.059,
+            "compound": 0.128
+        }
+    },
+    {
+        "name": "Erykka Jenaye Fite",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVt7YhA8Pr_MuMOjQYHHLQR5rAX_5hd3T5P1GOZdrpfLz_JWv7v",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love the little guy. My favorite part is when you get blocked by the shield and he smashes up against the screen. I just think that the shields should stop other players from stealing and raiding your treasures as well",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.154,
+            "neu": 0.617,
+            "pos": 0.228,
+            "compound": 0.5908
+        }
+    },
+    {
+        "name": "Hp June17",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLP4DOZT_hqbdv7PgHhba11R-Oh4tp87rTowZLkyTwy0JJuuA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Carroll Ann Green",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIuEMpG_s-yyjRaX9lsLeMyVGFIzWb1hSM1ojHU9wxzwU5Jlg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Like it alot. Very busy game. Lots of opportunity to advance through levels and kingdoms",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.71,
+            "pos": 0.29,
+            "compound": 0.6486
+        }
+    },
+    {
+        "name": "Ashley Miller",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKB6YtEVdyBCAZltQ_AV8ka_9Ur5CNkfJyv-mDg35anHYAFkUA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I really enjoy the battle mode with other players. The game is more enjoyable then other similar options.",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.122,
+            "neu": 0.594,
+            "pos": 0.284,
+            "compound": 0.5889
+        }
+    },
+    {
+        "name": "Sheme Ellis Reyes",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocI72rnyDOuWIKpetMrTJQcetJmbPAt2f38Oq64pa3guLGmTig=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I love this game. It's Fun and Addictive",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.4,
+            "pos": 0.6,
+            "compound": 0.8176
+        }
+    },
+    {
+        "name": "James Smith",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXB4seBTlPLIMV5J6z43s-lpiJ6IYMKFQA-Y67qbU4E-Q65zWboqA",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "Ok still been playing because I like the game I'm in level 195 I believe and once again I got a new pixie in a tournament and won 500 rolls and 12 plyers and then the famous Oops something went wrong trying to give you your rewards please restart the game to receive them. Ooook I did a few times and played the game and still never received the rewards",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.04,
+            "neu": 0.691,
+            "pos": 0.27,
+            "compound": 0.9432
+        }
+    },
+    {
+        "name": "Amanda Young",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIDTIxrS5sjZqZ1Hlchs7ofb3Evz2b4IhxW0nRrXwveNftdVA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun There does seem to be a bug on tyne rewards system. It will give you 100 dice and then it never actually applies them.",
+        "review_date": "November 06, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.775,
+            "pos": 0.225,
+            "compound": 0.7506
+        }
+    },
+    {
+        "name": "jedy power",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVlqQCoE7HUQr0KEdkMHkmRs0eibD_tFHj_-4dyzRzT-zitPy3Tmw",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "You need to get rid of the pearls, Getting only pearls as a reward it's a blatant push for pay to win. I cannot change this review till you change the game dynamic",
+        "review_date": "November 06, 2024",
+        "category": "Crashes",
+        "sentiment": {
+            "neg": 0.037,
+            "neu": 0.693,
+            "pos": 0.269,
+            "compound": 0.8658
+        }
+    },
+    {
+        "name": "Eve DaSilva",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVcKtigB4isfWCey11POXH4zrw5VO7MQQLq2H-WET4LsqLrV7CTOA",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Cool game",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.303,
+            "pos": 0.697,
+            "compound": 0.3182
+        }
+    },
+    {
+        "name": "Sarahjayne Dorman",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJtUHM7KnAMjfrVVFhGrqkQxqr9X3kFvBQ0gSZf8yCzNnJwZA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Very fun game",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.358,
+            "pos": 0.642,
+            "compound": 0.5563
+        }
+    },
+    {
+        "name": "Joan T",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocL7E7TIBEwo78WRCpQeIgzy01g2k_toJfbVs-LJmyDYRb7uEQ=mo",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "don't like it",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.513,
+            "neu": 0.487,
+            "pos": 0.0,
+            "compound": -0.2755
+        }
+    },
+    {
+        "name": "Laura Alcorn",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVhhz3Owii9Nf5CpKj_gkUo06Y8vg4joXyHkoETnnBxquu0-YrS",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun fun fun",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.872
+        }
+    },
+    {
+        "name": "crystal williams",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUtRUr9JnPFGChB6u1BG638FLkwBqu59d9K_4ti1RtSk17FA8FY",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Brant Yeoman",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKJgXgmgoLzh6bScDq1EoPWgv-p9Ok62956ziwM2u2eOUTwXg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Dope game frfr",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Felicia Myrick",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXvx3cG9Jk9o1iO_1AngIou21AgBobh8HrWt5sUslOwrRuiLyIo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love it! Great to get your mind off things!",
+        "review_date": "November 06, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.441,
+            "pos": 0.559,
+            "compound": 0.8715
+        }
+    },
+    {
+        "name": "Jenifer Orda",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKtSpbfUCRWi84DTCUHpMaIuAslk9BcdHmrEI3HmHQsXJ7Jkw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun \ud83d\ude01",
+        "review_date": "November 06, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "dustin jackson",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWaOz4tUheZY3yHmLIe_wloItIURpPEYOZAs4rh8Y0bNBc3kATy",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "Love the game....but there are a lot of ads",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.625,
+            "pos": 0.375,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Khuslen Kh",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWc0IsazUeLePp-QZ4e-ymMjeYOnKFdOYFpkXeBc7JUJx5SHtI",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I really enjoying and love it! I want more rolls",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.339,
+            "pos": 0.661,
+            "compound": 0.8673
+        }
+    },
+    {
+        "name": "Brandi Brown",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLNQPi0DguzjezDXy8DAcZVyoNNuW8PSotjWdIwJ_LTEXn-NQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "exciting",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4939
+        }
+    },
+    {
+        "name": "Hannah Moore",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLqQ4w6U423jD8gZjjjzW45jr4IjK6V8EtzcUMd5Y4CNm_t5Q=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Mohammad 1888",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVsFFlN2CbZxDAoL1ZB8gyud1md1KSDf96BDX9uOvsF2m9HTLLs",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "niceee",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Kelly Haynes",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUU10_CYDx2nRkqm_-VjlndJ3AD5HGNG7FxjqlBnxjLSD8bJRBr7g",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun game!",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.218,
+            "pos": 0.782,
+            "compound": 0.5562
+        }
+    },
+    {
+        "name": "Jennifer Dougherty",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocK8y6jmjKWg4r3_xTbIcK43YuS8pJ5Awby0tdhYQwG_8kO7Ew=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Very fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.218,
+            "pos": 0.782,
+            "compound": 0.5563
+        }
+    },
+    {
+        "name": "james shryock",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVc71CKHvGT2Gl0L6oMIsM8joD9Fo7OaLhCWjVRrY30FUrRIFcl",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Super Duper fUn oH!! yeAh!!!SwEeT!!!!nDID I Doo ThAt!! \ud83e\udd13\ud83e\udd23",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.418,
+            "pos": 0.582,
+            "compound": 0.8544
+        }
+    },
+    {
+        "name": "Leondras Jarrett",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLUq5yh_B9Ti658qXX4rde_Dp_wekgpJSkMlHsLCbnL7Yb12g=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Susan Gage",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLSfVtGUfS18UpfviS1SbOKQWR-iBcmkslQjeG60XsytVdSRg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Awesome game and very entertaining",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.291,
+            "pos": 0.709,
+            "compound": 0.807
+        }
+    },
+    {
+        "name": "Akhin Kadakkal",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVTWxpeBpyTHs7pXIu34LqIsf6ZTWmnl242UfUZN3yrQQgv4I4R",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Nice",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4215
+        }
+    },
+    {
+        "name": "Jason Lyke",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLjjJkpopZT0t2eNkFUKLRQTgFRJu9UmvvDYC79KsOPYHvgRA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Its fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.233,
+            "pos": 0.767,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Anthony Gathings",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocL68LpGuabMfjyGbt9lZ__mj9zGlAqcb8F9I3i1UOd2eyPuvQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "marvin 65",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVR6s7hhIXC1-W2Ulq3M7BskdWKNC8zfttqQB4m4FxwPVC2gO6g",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "Soo much time spent loading otherwise fun game",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.68,
+            "pos": 0.32,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "GF Daily",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocI6qgPOm8QrwhnHWbEe8vzfrIzN-bRVykyWszOGBm88M_YWUQ=mo",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "cool",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.3182
+        }
+    },
+    {
+        "name": "Marcus summerset",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKjKO_LdhBSJTdDlbWTnDBV5OK4RUMBcmAGACZxPRz_6wVANA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Courteney Jackson",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocInMnh8k96lz-PEdVtFqPz1OHPnrTrVTVEC3wOiiSS4JE7IAQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Roll the dice nice",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.517,
+            "pos": 0.483,
+            "compound": 0.4215
+        }
+    },
+    {
+        "name": "Harven Bricourt",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ2uc_gdvW1_VO6WmjG6Tdb89g5O-6kDN5N4Yup3xR_sxmojg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Very nice game",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.393,
+            "pos": 0.607,
+            "compound": 0.4754
+        }
+    },
+    {
+        "name": "Halina Bialowas",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKf3a5emSqlP6dyjTRdxaT9nhnbI3mT_v4_tSaFpZpzTvYcvw=mo",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "This game is good that it doesn't have ads and it is entertaining, one doesn't have to spend any money to participate.",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.775,
+            "pos": 0.225,
+            "compound": 0.7003
+        }
+    },
+    {
+        "name": "Magdalena Estremera",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIRUyNmYwss6Hoz6TXdbzq21QOAse79wOdTLkgbJNJqfelqgw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun lil game that you have to think about like strategy so you don't lose your money. Still learning the ins and outs.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.8085
+        }
+    },
+    {
+        "name": "Tracey Brisbane",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWwthZqblUSGFTnkq_4FCiq-EEgaDr3szX5S0Zpvizi4_kfmaY",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Awesome",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Savage Life",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIZ4I-2c0saE23HojfvCXGQErHLTZDf8jqk4sHapVhrJ13diQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Awesome game to pass time , but will take time !",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.738,
+            "pos": 0.262,
+            "compound": 0.4295
+        }
+    },
+    {
+        "name": "Teresa Secrest",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWKWBR6I-bri82_0BoldYs7a4M3ZC_OjFmnXj47k3B8YGHoJcJO",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Game is super fun \u263a\ufe0f",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.294,
+            "pos": 0.706,
+            "compound": 0.802
+        }
+    },
+    {
+        "name": "bryan armstrong",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXIC534IBNlTqc29h_MrDCYjdqIvPkRo5M06dB3JwWKX72Hys1H",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun game",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.233,
+            "pos": 0.767,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Melinda Dalecke",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVjc1TJhTg2XXrS0c8VJyJ2a3uzqVpc6c7igddmaYB0fEobfbIH",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "I'm having a ton of issues with the game stopping mid play every day. Multiple times. Yes I've updated, yes I've uninstalled and reinstalled. I can't even contact support. Every time I do, booted again. Now I can't get credit for the sticker rush. All 5 wires cut, no credit. I have proof of this, but can't connect to support. Or even upload a pic.",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.185,
+            "neu": 0.732,
+            "pos": 0.082,
+            "compound": -0.5789
+        }
+    },
+    {
+        "name": "Sherri Moss",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIoQTzequJ5XjfPnRKk9b2VBFsmcVhZtXzO7nXzxj4UPAoMPQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game, every morning, noon and night!",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.609,
+            "pos": 0.391,
+            "compound": 0.6696
+        }
+    },
+    {
+        "name": "Christie Lamb",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJzreTpF43Uh0o2LcR_ZQZqd2kVODHSsu5ZvL8p8O7vDvjp0g=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Since I've been playing, I've come to really enjoy the quick pace and little \"extras\" within the game. I just wish there weren't so many purchase hurdles.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.742,
+            "pos": 0.258,
+            "compound": 0.7902
+        }
+    },
+    {
+        "name": "hezikiah masilo",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ6wivnF1VYRQ9N6LVVo9Wszky4rSEVMVYhgl6JpT-eKi7nmg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great game i really enjoy playing it! More fun and challenges",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.249,
+            "pos": 0.751,
+            "compound": 0.9339
+        }
+    },
+    {
+        "name": "Melissa Nielson",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVa5FCoJLT1564ypo1nQyFzHVS67Wp8H_RKU9hmaqZLrGr8nF49Fg",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Lacey Woodbury",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXgk-tfFnD0INJV08JwyQJVzvzbo_esWowY_8hve1j7tqCJ4dyN",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "A little too much fun, very distracting. Love it!",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.163,
+            "neu": 0.327,
+            "pos": 0.51,
+            "compound": 0.7441
+        }
+    },
+    {
+        "name": "Teresa Rea",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUZ3DOBKvcmN_Yfp7bGTXku8iZa9vt9c9nwujMl76hsre08BAv2",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game always plenty of ways to get dice",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.682,
+            "pos": 0.318,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Jewel Glover",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ8z-upK6zWnLSZq5WizMbjcdVSvWPIEjG7-r3cqNe8APAtyw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "good game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.4404
+        }
+    },
+    {
+        "name": "Roxanne Moore",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjX4R7og0nlXBBBppuYovUe_Gnphg2IbiUOgE4qtWKoCxnSsKisW",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love it!",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.182,
+            "pos": 0.818,
+            "compound": 0.6696
+        }
+    },
+    {
+        "name": "Eric Peterson",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLgolh_tTxdxY0eudjJ86ANh66-cEFoaN2d0wsaxlCq82C_Bg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Tim Stevens",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKhFj-jWXT6UTcURbX_2apVMeTStcekCeifyZqrjWzjAhsyyQ=mo",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "Fun but unless you can afford the extras you move along at a slow pace",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.858,
+            "pos": 0.142,
+            "compound": 0.2846
+        }
+    },
+    {
+        "name": "Daniel Morgan",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLyFlL7dqUUmkhS12trMDSzqVOLZKtri5rKE6UUrz1HFR7P0A=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Good game, fun too...great game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.326,
+            "pos": 0.674,
+            "compound": 0.7351
+        }
+    },
+    {
+        "name": "Paul Smith",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUEp104ylZqwMLuoY7GX1Am07BWNG2XFg745l2-5sJLoUH_ud0",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Decent",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "asipofeverclear",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJGE1Ux5bRbokc-dnEYjcPq6jFplCUdLnkLZv4njkn7Noy4kg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Pretty fun. No advertisements. Fast paced, fun to play easy to save your spot.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.08,
+            "neu": 0.255,
+            "pos": 0.665,
+            "compound": 0.9442
+        }
+    },
+    {
+        "name": "Marva Harris",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIafxQ0614N6H3EmJXcszHk1rZ7QY9hjo760YeWeggtiQh-Qw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Just started so far so good",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.551,
+            "pos": 0.449,
+            "compound": 0.6213
+        }
+    },
+    {
+        "name": "Alexie Winter",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLPuQaSxTPskiwAutOKIxHrHeJb6A0JHoOHbnOz1EotaRpf1Q=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "It's not downloading on my redmi app please help me download it's not downloading",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.6124
+        }
+    },
+    {
+        "name": "Myra Davidson",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJq5EQnJE0MGB3cD8habtqPRGY1KtpoJTxq77QomggQMreIgQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Makes me less stressed",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.413,
+            "neu": 0.587,
+            "pos": 0.0,
+            "compound": -0.2748
+        }
+    },
+    {
+        "name": "Withny Cedor",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUSDp5ISXFxgyiqczl5HbTQruBZpjplSt6clmPdwYr6IU1l5ro",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Really fun!",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.205,
+            "pos": 0.795,
+            "compound": 0.5974
+        }
+    },
+    {
+        "name": "Omar DeLe\u00f3n",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjX_BI4KjbT0v-UiXgyHuanV9z4skk0Ucx7Fv1XwyMP5bbL51103kA",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "I'll give it a higher rating once the bugs are fixed. It keeps glitching and force closing on me. Each update seems to be making it worse and making the game less enjoyable. But other than that, I do enjoy playing when I'm not having any issues. I spend most of my time playing",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.035,
+            "neu": 0.786,
+            "pos": 0.179,
+            "compound": 0.8153
+        }
+    },
+    {
+        "name": "Stephanie Cadarette",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIzKa1e1UBuy8LrO689BklPAPgJ3lBu90okka3vKq6uLiCrgA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I'm addicted \ud83d\ude04",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Sherry Watson",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLC7NcV74pcpDjEKtxNPQQaJ58aEG5Ayv-cEWM3sqR0Ja2GZw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Nicola Nichols",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIAcOKyerTv2Bismk5oja8_G7Ofm0kWwQ84NHVDccRo03Z66A=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great game lots to do",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.494,
+            "pos": 0.506,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Clydie Joseph",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUwmPSfatjSI3X_SqlcRLebip5iidFpMGpDJ9syXzcZYx6fuH17",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "\u263a\ufe0f\ud83e\ude77",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Amy Kooiman",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKafGNvxUZNfPhyBPky3H8E3EKLL358kNgwhhAEyg2TxDLVog=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I love this game!!!",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.283,
+            "pos": 0.717,
+            "compound": 0.7249
+        }
+    },
+    {
+        "name": "Kelly Campbell",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUY6DPDc62rSKzoEkIDzRnKS-t33cf1bX6CWzh5DG0SZwLI7QrP7A",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "The game is awesome. I just wish the cards you need came more",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.595,
+            "pos": 0.405,
+            "compound": 0.7783
+        }
+    },
+    {
+        "name": "Wendy Alvizures",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKs5gXhRv1flYmS_P6_VSTDPOZ0AUMXZGz7GGD3t1jbG3Z_Xg=mo",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "This game just keeps getting more and more ridiculous. They have mini games that you have to have friends to play with, but it won't add your Facebook friends... stupid",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.182,
+            "neu": 0.715,
+            "pos": 0.103,
+            "compound": -0.5965
+        }
+    },
+    {
+        "name": "Ana Hernandez",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIdmRD3i3aORM8K9Nw2v7ma76lQaQMU2VGFFwADwB2tZ2qwDg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Keeps you entertained.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.426,
+            "pos": 0.574,
+            "compound": 0.4019
+        }
+    },
+    {
+        "name": "candace ho",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVsBKL6UVvvqlheRCjdcccKZ3wrWHuv69JWjntSadH-sWFJTYs",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun game. Love it so far. Enjoy very much",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.353,
+            "pos": 0.647,
+            "compound": 0.8996
+        }
+    },
+    {
+        "name": "Louise Brady",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXmXIO8SK-mcZCqUFbwZz-UeS5ulY9o5cp1mZdPMBVb2Gy9CsA",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "How exactly do I get to keep my pet forever, where in my \"kingdom\", do I find it",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Willie Smith",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLuliXYfjTC2Q4AYryUv1F_dwlXm6_5E89e3L4FHM5STpdyOg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Having a blast",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Zaleha Zal",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVDVabzZui5jAAcaQ8Zur0Up2mSqSUPhEbb7GpU3Txe1ynFVLw",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "syukur alhamdulilah\ud83e\udd32",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Christopher Knopp",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIsx3KPMf639F-wSZfSxxdoQXHEtDTtr5eP4kvSojXdHKtyKw=mo",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "Starting to get readable with dice rolls still needs some work, timing is off now and then,and other problems.ai ain't that good",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.103,
+            "neu": 0.897,
+            "pos": 0.0,
+            "compound": -0.3412
+        }
+    },
+    {
+        "name": "Emily Harding",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocL6cOvjH9xNVhKiYLG8q2LOcV0_um8HI7hWgTWTWxjQSdg22g=mo",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "It's ok, but recently when I get rewards off the pet eggs it says that there was an error and to reset the game to get them and when I do that nothing happens",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.093,
+            "neu": 0.757,
+            "pos": 0.15,
+            "compound": 0.296
+        }
+    },
+    {
+        "name": "Meggie Butkus",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWFo4GeCSrmLI8RivN3sDwBXnDeJPLdYLC6h50VGEYovqVcxXyQfA",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "Very hard to reach the required levels for rewards without spending tons of money.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.099,
+            "neu": 0.641,
+            "pos": 0.26,
+            "compound": 0.4158
+        }
+    },
+    {
+        "name": "Kristin Gremminger",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVjxD2ZY4ppanGYfbfaxxs-vHKyBX7AKQjIjWGl6IBAOOLlUJvH",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "In order to play the game, you have to click through offers for at least a minute. Sometimes the game doesn't work even after restarting your phone.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.912,
+            "pos": 0.088,
+            "compound": 0.34
+        }
+    },
+    {
+        "name": "Allen Leon McNutt II",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVUYRZw54vP5ME9SNlSo5d4GsF6hw0oWAzH6fh2IkMkdRRpzPA",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "So far so good and I will most definitely keep you posted if anything changes",
+        "review_date": "November 05, 2024",
+        "category": "Crashes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.629,
+            "pos": 0.371,
+            "compound": 0.7943
+        }
+    },
+    {
+        "name": "Zaitul Aishah",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocK6iAhXJZmEqMispXn037xuWtkboDTS4W_taUhKBejZ4tjqrg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "JACK W Muller. Jr .",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXUtqCzKe6VdzXi69bl8tFvyxNZraB_UYydPNHsIFwUft9hhFc-",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "F.T.W. sweet game",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.4,
+            "pos": 0.6,
+            "compound": 0.4588
+        }
+    },
+    {
+        "name": "Mojo Risin",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKsZjQuoeO1eqcRowmFtZZYbUpM-nXWxrebs7qmOZ0e8EgfUg=mo",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "Childish",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.296
+        }
+    },
+    {
+        "name": "Savanna Fockler",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVo2UYdWcoLrY0H8LTk6klL122Xl5ZaGkhWsCM-Iv3tavRtkeBs",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "It keeps kicking me out of the game",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Mary Clarke",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVhAC0CkEU7ofnJZwkAk8jh3zM1CQYYlfi3y_CFHsFR1y3h6Wx_",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "Game keeps crashing & I'm winning rewards but not receiving them. I've contacted support but no reply.",
+        "review_date": "November 05, 2024",
+        "category": "Crashes",
+        "sentiment": {
+            "neg": 0.124,
+            "neu": 0.531,
+            "pos": 0.345,
+            "compound": 0.6124
+        }
+    },
+    {
+        "name": "Julianna Trager",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXleb0C7sLS_kV6oCaSCNy0uKi8YTmfVL8Jtrq-CU3u63bPtYct",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "Did an update and now this gane just keeps freezing... this used to be a fun game but v with it constantly freezing up it's no longer fun...",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.149,
+            "neu": 0.778,
+            "pos": 0.073,
+            "compound": -0.3071
+        }
+    },
+    {
+        "name": "Marcia Merick",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIE_L2Gvuv3bJfLm_SL9BR-GOg9EJXtIIr-3dZMGNb1v4USmQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Awesomeness",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Emily Ruscito (ShooshPapper)",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVmyHehcteG4d20MY9SYXxN1qpvfLTeB3ZjQJRLpFj7m5xNNJiL",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "Fun concept. Too many events that lag the game to the point of being unplayable and pushes micro transactions.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.106,
+            "neu": 0.749,
+            "pos": 0.145,
+            "compound": 0.2263
+        }
+    },
+    {
+        "name": "Sandy claws",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVzfsjqRILLgLaIaRLrWKfBSaqlgljU9-aOSQYq9k_lmNM0WZWu-w",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Klement Monroe",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjX7WxBbrHAojz52UY85iMuh0HdU6RV9CT-Kq7g8rZkJa6F8WGy9",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "You can play it for a bir but then they just turn it into nothing but ads.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.898,
+            "pos": 0.102,
+            "compound": 0.1779
+        }
+    },
+    {
+        "name": "Wayne Kight",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXA5cnXvZtnYNfBqV_DU2HxukBvD7Hg0eixoi-w4dnj4OmNaeW6",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great \ud83d\udc4d",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "jackson batley",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVIva5zwXzN6K621zTY18vXDJ6K_bZYsLCT9ms8-amD6Xf8F0sO",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "So much fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.359,
+            "pos": 0.641,
+            "compound": 0.5542
+        }
+    },
+    {
+        "name": "Ynis Darden",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocK1u3CbNnl_82hOAJkqGI_12St1TAF4onGlPXbSOm6sSc28Jg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun and it grows on you",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.602,
+            "pos": 0.398,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Sandra Rivera",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWLJ8uZQoRgYfyvEX1rjDcpBIg70FWFOwOskwLcXQ2DeITZeOt0",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "what is wrong with this game please fix it",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.25,
+            "neu": 0.565,
+            "pos": 0.185,
+            "compound": -0.2023
+        }
+    },
+    {
+        "name": "MAPLE SAUCE",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJqdEgADEOH3xWECQogT4bgSxF21o5tNHxANTgRXgzLHLi58A=mo",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "There's just so many bugs for me now. I've been missing over 500 in rolls, quest prizing not being applied, leaderboard never updating people from my Facebook. I restarted and uninstall the game many times but same issue. Was fun while it lasted.",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.035,
+            "neu": 0.869,
+            "pos": 0.097,
+            "compound": 0.5927
+        }
+    },
+    {
+        "name": "Kim Ratliff",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUSpIelxVb_hCE-WaYSYLgZllfBuWltlboO6Ff9Ndgt6rHkrY4r",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Karina Roman",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLkDWejUmoYwdTwQvkFMC9Icql0u8s9rVJV6PZMLGRfSYh28g=mo",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "It keeps freezing",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.412,
+            "neu": 0.588,
+            "pos": 0.0,
+            "compound": -0.1027
+        }
+    },
+    {
+        "name": "Bizzy",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJLCS8RVhof9quvktrWRuPYg92l6wsqhrYcud-blQMuGdvlxA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Kenya Tryon",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjU7xK8Dz9GpBEBYfX0TibSIo4ymUrQYGxMemBfEgGE6WFExc-dm",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "This is a fun game \ud83c\udfae especially when u do rock paper scissors in a \"fight\"!!!! It's super fun \ud83d\ude01 I'd recommend downloading this game for sure \ud83d\ude00",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.508,
+            "pos": 0.492,
+            "compound": 0.9474
+        }
+    },
+    {
+        "name": "Samuel` Carson",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIbs-mC5PsJAHVfjgBehJGVURr2UPLqHUyVKH2YOJAoW6id5g=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun to play",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.149,
+            "pos": 0.851,
+            "compound": 0.6908
+        }
+    },
+    {
+        "name": "NIcholas Peacock",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIcwY-UD5rGRNNXJWRohUow06zse4-PsFFQytx2kyVHNhJ3TQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "it fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.233,
+            "pos": 0.767,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Aurora Simpson",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJm--II40-hXpLU0rORHHKRkNP0wsm4usYQfAYUuzdISOrSCw=mo",
+        "review_rating": 1,
+        "review_likes": 1,
+        "review_snippet": "UPDATE 11/5: Ok why is this game CONSTANTLY FREEZING? ALSO, I WAS IN A RAID IT FREEZES THEN OF COURSE I LOST IT. WHEN IT LOADS..WHAT A JOKE IT TAKES FOREVER TO LOAD BECAUSE THEY HAVE TO MUCH GOING ON IN THE GAME. I WON 400 SPINS..WHERE ARE THEY. STOP INSULTING EVERYONE INTELLIGENCE BY SAYING U GOT THEM OR I WANT A SCREENSHOT WHEN YOU KNOW WE CAN'T BECAUSE IT'S TO LATE.THIS GAME HAS TO MANY BUGS,AND IT APPEARS NOONE CARES.LATELY YOU WIN THINGS,BUT YOU DONT GET THEM 450 FREE SPINS. FREEZES I LOST",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.165,
+            "neu": 0.624,
+            "pos": 0.211,
+            "compound": 0.8056
+        }
+    },
+    {
+        "name": "Alicia Grimes Duran",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVp8A_wEExoho4DbV0aJNMXQ-rLCsr9_Md8QIjfXI-vbf9V5wYw",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I wish I could score it higher \ud83d\ude00... I just LOVE the little voices! But I wish there were less ads and more chances to win dice and treats.",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.542,
+            "pos": 0.458,
+            "compound": 0.9509
+        }
+    },
+    {
+        "name": "Penny Lamb Surrett",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXoHQi898jkk2iY0l_Q0xjq1moUYywy9-Bit1Iavd50GBc7MYBw",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "Well I've been trying to get the rest of my in app purchase for a minute now an I can't even get someone to get back to me. I'm still trying to get someone to take care of my problem an after 2 days nothing they requested some info from me an I sent to them an then nothing so as far as this game and support it's the worse I've ever had to deal with an ths worse part it's my 10 year autistic grandson who plays an get the one that's completely beside him self. So shame on you guys sane in you",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.107,
+            "neu": 0.807,
+            "pos": 0.087,
+            "compound": -0.5095
+        }
+    },
+    {
+        "name": "Meshla Beviin",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXoIT7JF3oRs8bOBu1uCiGBQFJdEb0fJjiZz-SKmNNrV7gAdlES",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "I do enjoy this game but the pearls and popups are killing it for me. I don't need 8 pop ups every time I open, they are crashing my game a lot recently which then prompts more pop-ups when I reload the game. The pearls are pointless if you don't want to spend money. I understand free games need to make money but cramming my screen with so many popups that it crashes the game is ridiculous!",
+        "review_date": "November 05, 2024",
+        "category": "Crashes",
+        "sentiment": {
+            "neg": 0.133,
+            "neu": 0.788,
+            "pos": 0.079,
+            "compound": -0.6625
+        }
+    },
+    {
+        "name": "Malissa \u201cMissy\u201d Carpenter",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVELDFOQCDi3Qib67N1A-CwHTC_4qs6VBSGaKm0t-iC0myLXGLx",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun game !!",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.34,
+            "pos": 0.66,
+            "compound": 0.5972
+        }
+    },
+    {
+        "name": "Michael Lemmer",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXRzmgkCbtUTj_jJjsBy0XUflEjvUTVevyS3hJpSwN29ML9APaK",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Addictive!!",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Cat Lover",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXB0wTLFJHJDR522cZFLaKLT_3GkDW8x0HJA_-vw1lxJS5cS9YY",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I absolutely love the game, been playing on and off for a while now. I can't get enough, it's just simply satisfying to play \u2764\ufe0f",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.606,
+            "pos": 0.394,
+            "compound": 0.8932
+        }
+    },
+    {
+        "name": "Daniel Noe",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWC3LJEm57uMjfsqCfcgPrK_VgWGSynAHmFi5RR_kFeGUnCvVoYyA",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "RobinPaul",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUinZjvryudBIQiF-eunC68id0gpOEJw7TwaX5J35FH3Zw7XLHH",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Awesome fun",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.8126
+        }
+    },
+    {
+        "name": "Toron",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjURR79-00FitAwNt-LvKFz4JEyd6mglPOqTI-zoVzhCEkc7d9uI",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Cool for the start no problem found.",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.438,
+            "neu": 0.357,
+            "pos": 0.205,
+            "compound": -0.3818
+        }
+    },
+    {
+        "name": "Elizabeth Shavers",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJQxQG09-FCasbbBE7_ejYzXtra7SZtfHLPaOq-x_sQigiXAQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "This game invites u to keep playing, the graphics are cool and it's fun . Like playing dice games dice dreams is nice try it,bet you will like it. Have fun!",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.462,
+            "pos": 0.538,
+            "compound": 0.9652
+        }
+    },
+    {
+        "name": "biddibiddi boopboop",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJRJWyuwDZZdccsPVCVyAtkrkIF6kXyzv-Ed4-yDpMUFdcW=mo",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "The prompts to make in game purchases are excessive. The 1st 5 minutes after logging in is saying no to invitations to buy in",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.091,
+            "neu": 0.909,
+            "pos": 0.0,
+            "compound": -0.296
+        }
+    },
+    {
+        "name": "Katey",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJeQ1M1kEMKX4GqU1Sd3yedg9JAtKM7fafk3AniOHp8fYxS1w=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "I LOVE THIS GAME,AND THE LITTLE ORANGE MEN!!",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.556,
+            "pos": 0.444,
+            "compound": 0.6988
+        }
+    },
+    {
+        "name": "Kevin Reddy, Sr",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXS5nuYMA69bl0Iv6NSNloD5x8rbGsRk1j6e3wV2ublpOjbQArb",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "Fun game",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.233,
+            "pos": 0.767,
+            "compound": 0.5106
+        }
+    },
+    {
+        "name": "Kimberly Martin",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXMYlyYXC7L3ORMwYCFKlPjo8360rK7P_c5BUqx9Rq5jkaQL54y",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "fun fun fun \ud83d\ude01",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.872
+        }
+    },
+    {
+        "name": "Tina Shurelds",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJPGknms04xD6lDu_Zg2tG8EAcOK2_VEsb9fL6nC9-TuW-h8Q=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "It's a Super fun game to play when I'm laying around doing nothing, especially when your getting dice and able to roll more than 5min. The complaint I have really is not getting enough dice. But when you do it's a blast!",
+        "review_date": "November 05, 2024",
+        "category": "Complaints",
+        "sentiment": {
+            "neg": 0.037,
+            "neu": 0.81,
+            "pos": 0.153,
+            "compound": 0.6114
+        }
+    },
+    {
+        "name": "Angie Headrick",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWRvC1JKYi0T0Lu-M983hFh_pmG6x-DFjXPgkb6wB-RY1Os5E2SaQ",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Awesome game. Would be better if adding friends would work",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.409,
+            "pos": 0.591,
+            "compound": 0.8779
+        }
+    },
+    {
+        "name": "Zula Enhe",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVDrYsKsvOeuhWCoAhm65cEWPNTcntleNwuvvdYVzCdP0xNneo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "So great \ud83d\udcaf",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.185,
+            "pos": 0.815,
+            "compound": 0.659
+        }
+    },
+    {
+        "name": "heather hunnicutt",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJvTtySS6042lvyk4KnjzuSDWWDNAUdM-K9pP25oPJSHIvmPQ=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "So much fun!",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.341,
+            "pos": 0.659,
+            "compound": 0.5954
+        }
+    },
+    {
+        "name": "C M",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVjEc1wG2M_HZaD5cSi3yn3XBAHeIEfm1y7eqrkZccmvLhd-g",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "Can be fun but, only if have friends or willing to spend real money. Currently having issues, the game said to restart problem with rewards. I received this message four times.",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.089,
+            "neu": 0.65,
+            "pos": 0.261,
+            "compound": 0.7845
+        }
+    },
+    {
+        "name": "Jess schlichting",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLUFUuCzKMwCClvTwGFoFzq1tdcgdnciuknWQ3lPC5ML_x7sw=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Cool game my kids like it too",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.51,
+            "pos": 0.49,
+            "compound": 0.5859
+        }
+    },
+    {
+        "name": "Amjad Abdullah",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWOWYtfj63eT4NcGW1nWvLEcuvmLGugqoWN4LiZuYlz8kuju98",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "\ud83e\udd70\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d The game is nice mmmmmmmm",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.641,
+            "pos": 0.359,
+            "compound": 0.4215
+        }
+    },
+    {
+        "name": "Amy Farro",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXoLFcWhYVvILWEbZkaH4bEN9L31aDmAcOqOgixk2o5rL5wU-FG",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Addicting",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "Crystal Barks",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVg5ANlkvV9VFp2vQiZoVaJBn5yBHAkN8faYM3oJB_0VPpbX8gt4Q",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "It's a good game",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.408,
+            "pos": 0.592,
+            "compound": 0.4404
+        }
+    },
+    {
+        "name": "Ken Robinson",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXZfRfNHmk2UhSDlHgpKzuH0LszbOpJIIi5E6Sp_miQMPrVL9k",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Awesome game.",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.6249
+        }
+    },
+    {
+        "name": "Humble Kimmi B",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjX9vkJdUxZiwLOHACDBgSeMb2vBCalyeu3zNGASwoRXBeiwPGVV",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "Fun but glitchy. I've spent almost $50 on the game in the last week because it takes a whole day for 60 rolls to refill. It's fun but you can't enjoy it without spending money. Today it cheated me out of 10,000 rolls I was supposed to get from completing a puzzle and it keeps giving me an error for reward dispensing and telling me to restart. I've not gotten half of my rewards today and it keeps freezing during my attacks so no bullseyes for me. Waste of time and money now.",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.201,
+            "neu": 0.643,
+            "pos": 0.156,
+            "compound": -0.6696
+        }
+    },
+    {
+        "name": "Ricky Stewart",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUYxmXvx7yYYVbXInKkK-7HraDLNui6PmIjOIZZO7DZ_v6wfMQT",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "I only got this game because of atlas earth",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "name": "corlene Jackson",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKgi-odYtB0axooz3xmwdA7bo6jCOaprCW-liowxX-sMr1PFw=mo",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "The last couple days it freezes up within a few rolls, I've noticed missing rewards as well as just not being getting able to use the game. I don't wanna delete but I'm getting there.",
+        "review_date": "November 05, 2024",
+        "category": "Crashes",
+        "sentiment": {
+            "neg": 0.075,
+            "neu": 0.823,
+            "pos": 0.102,
+            "compound": 0.2382
+        }
+    },
+    {
+        "name": "Pip Church",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJKKYXp6gRiise8vgU1jxu2dNcOBDPbalgX8X8Kutdruu0Jbw=mo",
+        "review_rating": 3,
+        "review_likes": 0,
+        "review_snippet": "it's fun for a bit, but then the pop ups (with buying incentives and just time limited games) are excessive and you're closing them more than you actually get to play.",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.064,
+            "neu": 0.711,
+            "pos": 0.224,
+            "compound": 0.705
+        }
+    },
+    {
+        "name": "Michelle Lizemore",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVeUS_50ui8RkmWgcf2nJeEJgvpO24-EKwM3cqM9W5KiQC8bYYN",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love the features",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Stacie Cakums",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLryByzx2pvxtqGy11GB683RLc8onwiJN2YxluKUG3xA-G02w=mo",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "It's fun but WAY TOO MANY POP UPS! Just the last time I played I counted 8 pop ups before I could even do anything. Then I was able to roll 3x and more pop ups freezing my screen. I actually left the game to leave this review because it's that frustrating. These pop ups are extremely redundant and annoying. If I want to invite a friend, I know how... Thanks smh",
+        "review_date": "November 05, 2024",
+        "category": "Complaints",
+        "sentiment": {
+            "neg": 0.169,
+            "neu": 0.626,
+            "pos": 0.205,
+            "compound": 0.459
+        }
+    },
+    {
+        "name": "Samantha Hill",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWb5zbihhzqFcyUJgO5CxTng5qdzPYm82wkL_Xwil8lAOHkANaB",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "I love the game but the pop ups are getting excessive and a bit irritating. You have to deal with a bunch before you can even start playing.",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.13,
+            "neu": 0.714,
+            "pos": 0.156,
+            "compound": -0.0516
+        }
+    },
+    {
+        "name": "Janet Filipe",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLOOqiLRcPzxbt0TZXJhQ8P1C2RWnXcXQjv1r9M96eilQgl9w=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love this game it's really cute and it keeps us occupied",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.546,
+            "pos": 0.454,
+            "compound": 0.8173
+        }
+    },
+    {
+        "name": "Tammy Evans",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIcQCeUXkNRLKmgOBZVaEi6edw2OiVgVv8eYwMMraytEYoamg=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Love it",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.192,
+            "pos": 0.808,
+            "compound": 0.6369
+        }
+    },
+    {
+        "name": "Shirl H",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIyiq3zzJhPpbxsdpT_jsbJ2Eu696SreNjvNE0u29kx4s3u6Q=mo",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "Addictive game, does alto of push sales and needs to sort out a better way to add friends in game, game keeps glitching not being rewarded when ment to team chest constantly gliitching, now not getting diggers...",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.063,
+            "neu": 0.793,
+            "pos": 0.144,
+            "compound": 0.5223
+        }
+    },
+    {
+        "name": "Gcobisa Dlanjwa",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLoe7zXoDFnnl9SRmSEnf9Xi70bhJ_3LE4SfMhStl_jeC3gGg=mo",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "I just download this game when I open the game it's saying \" oh no seems like we have an issue please try again later \" I been trying for several times now Please help me how to fix it",
+        "review_date": "November 05, 2024",
+        "category": "Bugs",
+        "sentiment": {
+            "neg": 0.052,
+            "neu": 0.714,
+            "pos": 0.233,
+            "compound": 0.765
+        }
+    },
+    {
+        "name": "Tanekia Moore",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjU_YxnDIaPIP0m7TFfuwVl1jI1Y4LFX8SgT7Thn7vPAE-KyuT5R8A",
+        "review_rating": 1,
+        "review_likes": 0,
+        "review_snippet": "Super fun game but they never let you win on the hopes you'll purchase their packages which is why they continue to pop up all throughout your playing. DONT WASTE YOUR TIME ALL THEY WANT IS YOUR REAL MONEY FOR THEIR FAKE COINS!",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.152,
+            "neu": 0.569,
+            "pos": 0.279,
+            "compound": 0.6999
+        }
+    },
+    {
+        "name": "Eli Zech",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVY4abPhneIIbzWVw56W-1tEDPNY7XTVALaRkwA4bjWl-oE9LI",
+        "review_rating": 4,
+        "review_likes": 0,
+        "review_snippet": "Fun simple and great time killer for 10 to 20 minutes. Also it is a very appropriate for all ages",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.155,
+            "neu": 0.578,
+            "pos": 0.267,
+            "compound": 0.4767
+        }
+    },
+    {
+        "name": "Kim Hawkins",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWEJt3MjTmRXzjVAqw7ZVf8LhMxDEZJZDBwNIlHfIfZBaMj680i",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "fun having great blast",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.213,
+            "pos": 0.787,
+            "compound": 0.8126
+        }
+    },
+    {
+        "name": "jd leavitt",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJifyep_KKbowmvKnC8QpTlNZ1KLme9qEwpmReYq3zL-gCEjA=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Nice",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4215
+        }
+    },
+    {
+        "name": "Katrina Lester",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKVDX7hY9S3xLo1GKT-ICu_jI5hgQoblEloNQ89EUPeuzsQ-g=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Funny to play",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.159,
+            "pos": 0.841,
+            "compound": 0.6486
+        }
+    },
+    {
+        "name": "Lynn Crayne",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXRKrj84fV3ZOFT1goth5JCgwmo6mAOGxM7NQ5srpy1NYCzbWET",
+        "review_rating": 2,
+        "review_likes": 0,
+        "review_snippet": "Got screwed out of prize winnings today after collecting the 6 old fashion street lamps. This has happened before but whatever. I'll still play because it's a nice time killer.",
+        "review_date": "November 05, 2024",
+        "category": "Complaints",
+        "sentiment": {
+            "neg": 0.195,
+            "neu": 0.533,
+            "pos": 0.272,
+            "compound": 0.2846
+        }
+    },
+    {
+        "name": "Lucinda Lowe",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWQ9Fq76vxQvUerzkmgTAOxpVCt2FXe2FN26NFSU0trioU0s7Pu3Q",
+        "review_rating": 1,
+        "review_likes": 4,
+        "review_snippet": "Don't play this game. You collect what they ask and you NEVER get your rewards even when you email and ask support on the app! Won several mini games and emailed and got nothing except 'we don't believe your claim' even though I have sent a screen shot that I have collected everything. I have won four and probably amounts now to over 5000 dice and 5000 cookies! Imagine how much further I would be in the game if I had of got my winings!!! I'd never pay for the game purely because of the above",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.045,
+            "neu": 0.83,
+            "pos": 0.124,
+            "compound": 0.8391
+        }
+    },
+    {
+        "name": "Michael Foster",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLX2TTQVhrupDLOJ1AE9T0c8psiBs2rFFVR40SJWhA6NZ0K5w=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Great cute app fun",
+        "review_date": "November 05, 2024",
+        "category": "Praises",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.088,
+            "pos": 0.912,
+            "compound": 0.886
+        }
+    },
+    {
+        "name": "Tiyana Scott",
+        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJT5A0v3utRLLh8F2_bG1rIB614yBO1RZ7XYqE0wGioIhfu8A=mo",
+        "review_rating": 5,
+        "review_likes": 0,
+        "review_snippet": "Fun exciting",
+        "review_date": "November 05, 2024",
+        "category": "Other",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.7579
+        }
+    },
+    {
         "name": "Entertainment Videos",
         "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWBPEjqPJXbOfPeUIJxsbuDI9d9F9fRCTOgXLCnxNPxrMwVyVn2",
         "review_rating": 5,
@@ -468,7 +3153,7 @@
         "name": "Amanda H",
         "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJFQARCQNrUBI20LkU3-qcDJLlfnJsHpdHCRVQ3eNpnaRMj3A=mo",
         "review_rating": 5,
-        "review_likes": 0,
+        "review_likes": 1,
         "review_snippet": "This game is fun and addicting to play! You do get sucked in and really start spending money after more and more levels. After you get further in you should get more options for ways to get more free rolls or cookies or ways to continue instead of having to pay to play. Obviously the person playing enjoys the games or they wouldn't be playing, there should be more rewards and less asking for money as levels progress to enjoy the game.",
         "review_date": "November 05, 2024",
         "category": "Other",
@@ -2628,7 +5313,7 @@
         "name": "Charlotte Sometimes",
         "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjU86OJHE2upXKC6ZJ2jBg-5-cx3Y-Sbuyp59WPvtrT0xEMY5RbKug",
         "review_rating": 1,
-        "review_likes": 2,
+        "review_likes": 5,
         "review_snippet": "This game just gets more and more pay to win. You can't finish literally any event unless you pay to do so. You also can't remove friends from your list which you HAVE to add people to trade so if you add someone to trade and they nonstop attack you you're screwed. Too bad. Can't remove them unless you delete your account. Other games with the same concept might not look as nice but go about things wayy better than this game like coin master. It's fun but annoying if you're free to play",
         "review_date": "November 04, 2024",
         "category": "Complaints",
@@ -5043,7 +7728,7 @@
         "name": "Daniel Gammons-Reese",
         "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKOjbj3lOtcRKx-11QdfDZI29Xd0x8RoWXs9guFKPMmZZAUww=mo",
         "review_rating": 3,
-        "review_likes": 2,
+        "review_likes": 3,
         "review_snippet": "Went from 5 stars to now 3 stars. I can't anymore with the bugs and glitches. I'm on a great team, and the tournament keeps disappearing. I lose progress or items. I have spent money on this game, and it is upsetting that support will not honor lost items when you have paid for them! I'm close to deleting the app altogether and not playing anymore.",
         "review_date": "November 03, 2024",
         "category": "Bugs",
@@ -5058,7 +7743,7 @@
         "name": "Mary Wiseman",
         "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLJaBG7kpSPobaIRYtmc4Y3LsR1Nzwdg3wbOp6QuUvrriXaiA=mo",
         "review_rating": 1,
-        "review_likes": 0,
+        "review_likes": 1,
         "review_snippet": "You are taking all the fun out of this game with the things you keep taking away! AND 1.2B to finish a level is crazy! Just about done with this game unless things change. There has to be better games out there. Still playing this game but I think it STINKS that you offer us all the \"pearls\" for the deep dive game but then we can only go 2 levels without buying the next level! I will NOT pay to play a game and this really is wrong!",
         "review_date": "November 03, 2024",
         "category": "Crashes",
@@ -8658,7 +11343,7 @@
         "name": "Inez Baca",
         "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVXN_YBQwGG02QxmgcCQRVpF7C4gfjVXEJ7Bvg6lioLCJaMNOdjbw",
         "review_rating": 1,
-        "review_likes": 10,
+        "review_likes": 14,
         "review_snippet": "Lots of glitches, you pay for dice, but purchases aren't always correct, and when you notify them on their issues, they dont always resolve the problem. Love the game when it runs right but constantly updating the game because of so many glitches. It can be very frustrating waiting for them to correct the issues or having them just ignore your issues altogether.",
         "review_date": "November 02, 2024",
         "category": "Bugs",
@@ -9378,7 +12063,7 @@
         "name": "Kim \u201cPinkGlitterMum\u201d Howard",
         "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXbz9FlCecr5EeUeG0ZmqOs81SVjnNB6eLtfVgmEu2rS85O9ouE",
         "review_rating": 1,
-        "review_likes": 1,
+        "review_likes": 2,
         "review_snippet": "was on jigsaw puzzle and uncovered a pink prize, which it didn't give me! I wasn't 2 upset at that, but when I went back and completed the whole jigsaw, not only did it not give me my final prizes, but is now stuck and won't let me move onto the next puzzle, and there's only a couple of days left to complete the full challenge! I messaged them about this, I've had no reply, updated the game, it's still the same!!! Upset as it's my fave app, plus I've also spent alot of my own money on this app!!",
         "review_date": "November 02, 2024",
         "category": "Other",
@@ -10302,36 +12987,6 @@
             "neu": 0.128,
             "pos": 0.872,
             "compound": 0.7777
-        }
-    },
-    {
-        "name": "Larry Tiblier",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWxwR78zc8n4H3soo_pRXUnCX4I7-xsTQ6ujnORMuRpSwR6XRc",
-        "review_rating": 3,
-        "review_likes": 0,
-        "review_snippet": "Can't share with Facebook app not working on select photo",
-        "review_date": "November 02, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.173,
-            "neu": 0.827,
-            "pos": 0.0,
-            "compound": -0.2235
-        }
-    },
-    {
-        "name": "nun ya",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIcBIv4bTYD_wulhYDifvTjQE2Zkio1B6aGjMYpoeoMhS-3bw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "so so much fun can't stop playn man",
-        "review_date": "November 02, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.512,
-            "pos": 0.488,
-            "compound": 0.6937
         }
     },
     {
@@ -12993,7 +15648,7 @@
         "name": "Melissa Smilie",
         "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJsP53gvfX0y82c0-u31rtcYl7T7gec-5xsYYlfju4E4asy3g=mo",
         "review_rating": 1,
-        "review_likes": 13,
+        "review_likes": 15,
         "review_snippet": "The game freezes up frequently. The video mania many times doesn't work. It's fun when it runs as intended, but unfortunately, that's becoming a rare experience. Update 11-1-24 Yesterday I made it to 3 chest on the trail and didn't get the rewards. I've uninstalled and reinstalled the game this morning because it won't completely load. The game still won't load. It's frustrating because it is a fun game when it works. It's been hours and the game isn't loading.",
         "review_date": "November 01, 2024",
         "category": "Crashes",
@@ -14086,7 +16741,7 @@
     },
     {
         "name": "Jon Hinkle",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWjEWp3hK8Ucr6B04VXRyGfK1wUOpIM68QSpJ6L87V6DDc64SMx",
+        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV1AJzGnfgn1hJw1lN2C9jUuKYBT1L1eYcraOB4ZQCiBTd9nBet",
         "review_rating": 5,
         "review_likes": 0,
         "review_snippet": "Fun as hell.",
@@ -17202,2271 +19857,6 @@
             "neu": 0.149,
             "pos": 0.493,
             "compound": 0.2263
-        }
-    },
-    {
-        "name": "Kaonis P",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVRjInHpQJjGvV3WEhmCcB-ulohdD4aXdIPfPsh4JzG9BNylcThFw",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Quick and addictive fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.476,
-            "pos": 0.524,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Jeremy Marklinger",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVdwl1D8-PQlIGt3GFulFl7M2YQ3r7pc0BHAudB8Orn2xn7NDI",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Good times",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.256,
-            "pos": 0.744,
-            "compound": 0.4404
-        }
-    },
-    {
-        "name": "Jay Lee",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjX70msJYeB6yklPoishiAgzwM4JtxhzW1D5EgVL4YNejm6KVjA",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun and addictive game",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.476,
-            "pos": 0.524,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Erika Orozco",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJZaQriphaHwbPmctqNo1Whis72bWWvt-gt7IC9wWrvijcFAks=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it!!!",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.165,
-            "pos": 0.835,
-            "compound": 0.7249
-        }
-    },
-    {
-        "name": "Assassin A",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIkIvKhHmRKUTxcrtn3hBBo_qGFDu4NgyhtV0ZG_DPWCetH2e0=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun game!",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.218,
-            "pos": 0.782,
-            "compound": 0.5562
-        }
-    },
-    {
-        "name": "Anthony Chomuk",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWpM379q5WEUHTpxCsS9hmWsm74DjKIp19Ahr4f60fS1Hgda70",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "A blast, if you can work your way up, this game will entertain you for a good hour at a time, without buying into it! \ud83d\ude00",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.785,
-            "pos": 0.215,
-            "compound": 0.6696
-        }
-    },
-    {
-        "name": "Nicholas Bond",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWEAG-RBNfCyzyGTqahQZvPYbm3q9-9ax2qJ2ozxNcXArS3ulYu",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Kid like it",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.444,
-            "pos": 0.556,
-            "compound": 0.3612
-        }
-    },
-    {
-        "name": "Janey Mitton",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXmQ8In23t1vjZRMZfsPVyL-8l8fGd1c0I806MtGpvo2AY92cJH",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.192,
-            "pos": 0.808,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Tracy Zink",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ_2-1IRz86czEyMWOv04CT2ZyxYDTY40IGqhTrxzB2HeB71g=mo",
-        "review_rating": 2,
-        "review_likes": 0,
-        "review_snippet": "Coin masters is way better than this game. Hell can hardly get any shields to protect my buildings! Very frustrating!",
-        "review_date": "October 30, 2024",
-        "category": "Complaints",
-        "sentiment": {
-            "neg": 0.28,
-            "neu": 0.536,
-            "pos": 0.184,
-            "compound": -0.5963
-        }
-    },
-    {
-        "name": "Heather Marie Flores",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXRBvLqYCe8u3W-EjcpUVcJR9ccm4K7bYWQ6k6dD8YQvy2v5Fb4VQ",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Slow on graphics. But fun overall",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.529,
-            "pos": 0.471,
-            "compound": 0.6652
-        }
-    },
-    {
-        "name": "Vin Mar",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIa7cT6HphQLklQsB5xLDSyH8ivsAjfVhcvjuP67vBJJ_96bg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Jeremiah Stark",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKEYS7qKRYPri9gSkeCYi3yJd5nTRm6lA3oVPSruZJBAIHGPQ=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Nice",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.4215
-        }
-    },
-    {
-        "name": "Carlo Fields",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIjEuG0QaCoEwuWobMlIQAFs3OpHgpToF-FSWxObXus7_HGfw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Cool game",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.303,
-            "pos": 0.697,
-            "compound": 0.3182
-        }
-    },
-    {
-        "name": "Michael Miller",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUgDMf39tTGUQbosMKZDCnUUn9eLznLyy-RlyAmOnZxZbZEyfxT",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "It's relaxing",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.238,
-            "pos": 0.762,
-            "compound": 0.4939
-        }
-    },
-    {
-        "name": "John Ali",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJvjDszRQxjWQfmj11rO4L2ZNXr1XCG1XgU6LkL7R1ORYHahQ=mo",
-        "review_rating": 1,
-        "review_likes": 0,
-        "review_snippet": "Fake game 100% Yes fake game online all fake game??????????!!!!!!!!!!!!!\u00d7\u00d7\u00d7\u00d7\u00d7",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.568,
-            "neu": 0.298,
-            "pos": 0.134,
-            "compound": -0.8667
-        }
-    },
-    {
-        "name": "Jackie Mponce",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWCP7bqUje99RRooxUxOsTzFnRgSXx3b3FKjQr9mdWo_mS3Voon",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love this game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.323,
-            "pos": 0.677,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Killer Bonez",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVmgUQ3Ex-WA62UvnFO7_caIzcpZeUnheKIt8P5_r8hTcKLUFs",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love the game great pass ti.e",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.325,
-            "pos": 0.675,
-            "compound": 0.8519
-        }
-    },
-    {
-        "name": "Amber Roach",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocISmqHy3q3BNTo8ZLel6JQZNljjuIlCPX4sbftE66dPlVUGFw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Atir Ralleuc",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXd8PQ7YOKRB-76YXtJ6Nva_NHR1VimRMlnjF_yKw7LEKBGuYk",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Fun game to play with your friends",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.312,
-            "pos": 0.688,
-            "compound": 0.8316
-        }
-    },
-    {
-        "name": "Velma Brown",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocK7kk7QrPQEpZmQD3eQLMFH38HOouoiam9NDlArD8y-mtSpWA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun and challenging.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.169,
-            "pos": 0.831,
-            "compound": 0.5994
-        }
-    },
-    {
-        "name": "Reagan Cross",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV-IUqKlpVfUv7M6R42wv7xDHJU3jWMvfMClkUv8F9KGqYiQtaP",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Problem fixed! Great game!",
-        "review_date": "October 30, 2024",
-        "category": "Bugs",
-        "sentiment": {
-            "neg": 0.288,
-            "neu": 0.213,
-            "pos": 0.499,
-            "compound": 0.4559
-        }
-    },
-    {
-        "name": "Jamie Stieve",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIEa_IzZ54dnzSKBTMcW2ZVVEPU4FsyeF3vApICf9cLR6QQMg=mo",
-        "review_rating": 4,
-        "review_likes": 1,
-        "review_snippet": "Fun game, the screen does freeze when i earn cards, hopefully it'll line out when there's another update. Rated the game for 25 rolls, which I didn't get.",
-        "review_date": "October 30, 2024",
-        "category": "Crashes",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.762,
-            "pos": 0.238,
-            "compound": 0.7351
-        }
-    },
-    {
-        "name": "Leo King",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLJIK0qaMf9uFDmKv2zD2-lqr5NpRICMGM2to4-h96rIr2Ikg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Amazing game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.208,
-            "pos": 0.792,
-            "compound": 0.5859
-        }
-    },
-    {
-        "name": "Rickey yaheem",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUN4yomhh2GTLfHJkl8Q3TRO0q0Xuo5G3l5hxBhWjNDCp1Ogmk",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "This app is great for fun love it keep up the great work.",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.364,
-            "pos": 0.636,
-            "compound": 0.9493
-        }
-    },
-    {
-        "name": "Patrice Sidney",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUAxJYdomTnKdd61-bT5BCWrr49ZGuakeu-VzcYZokdHudwI4MC",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Easily addicting",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.294,
-            "pos": 0.706,
-            "compound": 0.34
-        }
-    },
-    {
-        "name": "Monique Brown",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJvbpr5R2F5mDKS-KMcvyN6Po1NIokCj5Vj3ID4rNsnyq7VDg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "I LOVE DICE DREAMS",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.127,
-            "pos": 0.873,
-            "compound": 0.7845
-        }
-    },
-    {
-        "name": "Gary Horton",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJFFPm-hew6oob4aJKJBxMt5mnaU4WAhM4KxKv_0HZ1Q3KJ9Q=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Plays well on the phone",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.423,
-            "pos": 0.577,
-            "compound": 0.4767
-        }
-    },
-    {
-        "name": "Timothy",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJlyPTy4nkK6ILnw-T79e0UREmZQoVTxost_QBer6I1bc6CyA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "It is fun and easy to play. I enjoy playing the game. The different levels add excitement",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.373,
-            "pos": 0.627,
-            "compound": 0.9413
-        }
-    },
-    {
-        "name": "Serghei Bulgare",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKD_WlCHid2MDjypeqR9Cx65_AJcQ9ZGZpAUkZc2WW6TZZDZw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Its really nice and its worth money",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.5,
-            "pos": 0.5,
-            "compound": 0.6115
-        }
-    },
-    {
-        "name": "David L",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKfC7b5g6re2gF2awjF3YUzq_uFG2fVn3Yb1956E-JhOR6jUw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "This game is very fun. I didn't think it was going to be but next thing I know it had already been an hour. Time flies when your having fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.783,
-            "pos": 0.217,
-            "compound": 0.8012
-        }
-    },
-    {
-        "name": "Matthew Wood",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVJ1RdexfNYjvzoXdT2b8l1v779tfZ2vKFV6ws2ZckOexE8OeyC",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Awesome",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Dominic Elliott",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJGClmMXBB6U5YZQloJu5OpvrCFpTXkWhz-2mx-6vAVyjUo=mo",
-        "review_rating": 3,
-        "review_likes": 0,
-        "review_snippet": "App station USED",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Vanessa Boswell",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW1jjY7-yJ_rn81Lz8M2vDe7daD86e7Y9bhtsYgUe5CaUl1sErDoQ",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "This game is fun and pretty awesome.. And you get to destroy stuff. And who doesn't like to roll some dice!",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.191,
-            "neu": 0.578,
-            "pos": 0.231,
-            "compound": 0.2919
-        }
-    },
-    {
-        "name": "Dawn Smith",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIwypNpWrAu_pglKpgauR4Iu6q0vHfnVhxlyu1B3I4csWKIEA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "eow",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Stephanie Finch (Ana)",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXw89FSWkP7JjNTslHNZwHjjNMBusXJJDpp6otC2hg17S8FsDrT",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun, calm",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.6808
-        }
-    },
-    {
-        "name": "Ange Ouloupohi",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUL7ggV6beS85HytvgOao4U4uwdjdZG8RgnMqosuwhg3W5qMcQMvA",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Thanks for the bonus I'm able to build.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.484,
-            "pos": 0.516,
-            "compound": 0.7506
-        }
-    },
-    {
-        "name": "Mike Messenger",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLBo1S1rOodCpKaV07Xs3SJ7bar_jzl9POD7ldj_OynRa708Q=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Crystal Schoonover",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIquXREKj1ZPKvQXMCx4YXjQcQnJjMofJP2N3-PrIGipPFZyg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Probably one of the coolest dice games I ever played",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.769,
-            "pos": 0.231,
-            "compound": 0.34
-        }
-    },
-    {
-        "name": "Corey Skeins",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocL92KtpTUDoHbmVRcNGC1z8fp7kLuQ-OSFGvvB9VUZuYtbP7w=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.196,
-            "pos": 0.804,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "bianca",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXBf-dZi5_AEAFD47ZDofrTQhwAH9HDvd_nkOV87f-5p5bgl09O",
-        "review_rating": 3,
-        "review_likes": 0,
-        "review_snippet": "super cute but there's so many pop-ups trying to get you to buy things, and the refills for dice take too long!",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.808,
-            "pos": 0.192,
-            "compound": 0.5778
-        }
-    },
-    {
-        "name": "aaron schrock",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ9U82v7bX4MDoW8-n0JBraz2q2eeDVQ_CrvevtdosUR71GPA=mo",
-        "review_rating": 2,
-        "review_likes": 0,
-        "review_snippet": "Ripped me off the last 3 friend invites that joined. I gave 5 stars previously... please fix the issue as I lost out on probably 1500 rolls and $150000000",
-        "review_date": "October 30, 2024",
-        "category": "Bugs",
-        "sentiment": {
-            "neg": 0.077,
-            "neu": 0.738,
-            "pos": 0.185,
-            "compound": 0.4939
-        }
-    },
-    {
-        "name": "Trell Thomas",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocImdTmJgGFa62jmGoXMzQeAhp_6JuACCEW73rxhjBOgWyaixg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "I'll be playing this game for years and it really relaxed me",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.654,
-            "pos": 0.346,
-            "compound": 0.6478
-        }
-    },
-    {
-        "name": "Glenn Schultz",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIXqyacL9rpxcCkYOiMikkxvv_ezdXkJUr1tfWk15RUXZPaUQ=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Yahoo",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Terri Doherty",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUyxjnJtLc0V91sLQTBCVseQQHd3rI2nqR0qSrm0-7nCmqGn5xA",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love this game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.323,
-            "pos": 0.677,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Magdalena Torres",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV2RGY7Ts5OJWC2s3B-XwFtk-HLBzNjPfh12o6fhsLmawsdv1vK",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "A game that's very intertwining.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Jo Spear",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWzdnGci2DWSrL4O2YzgxVWU9qKV7FanN1iNR9ZcgfrPZ8E4j4",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game to play could do with easier ways to reload dice to play having to wait 10 hours reload 70 dice or having to watch ads to get 10 dice .",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.698,
-            "pos": 0.302,
-            "compound": 0.8934
-        }
-    },
-    {
-        "name": "Carrise Peach",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVjs9J4o3_VpzyEReKNtk2IqqzlySGaUXonqsMsDwj2gNQHxZwE",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "\ud83d\udc4c\ud83c\udffcgreat fun game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.377,
-            "pos": 0.623,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Ezeh Dlove",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ6eIBJSUHMjG6hfEIKmOFUgvAnlt0xR-2OIogvb2DqYjv0KA=mo",
-        "review_rating": 1,
-        "review_likes": 0,
-        "review_snippet": "Do not download this game is Western of time",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Michael Davis",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW1qCDFTXw_AUC10_s5fDb7cB9_cuxQ8CZ854OCliGJRFwCB8JXqA",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Kind of slow loading but fun to play",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.443,
-            "pos": 0.557,
-            "compound": 0.8201
-        }
-    },
-    {
-        "name": "Antares Brown",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIg-JRqii9GwhM5UD7kodu7U2ZGkANyjls_cF0H__V6cXGh5g=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "This is a relaxing and peaceful game.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.385,
-            "pos": 0.615,
-            "compound": 0.7506
-        }
-    },
-    {
-        "name": "Andrea Campbell",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXtdFr-5ITZUxJO6LEnOgPKVLnpfh0rxZPWYd_421u1pNSC7tdxmQ",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Such an amazing game. If your not careful, you'll find yourself playing for hours and you didn't even know it!! \ud83d\udcaf\ud83d\udc4d\ud83d\udc40\ud83d\udc51 Love this game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.045,
-            "neu": 0.628,
-            "pos": 0.326,
-            "compound": 0.8732
-        }
-    },
-    {
-        "name": "Eubie Bryant",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXu5TYV_V-IdG7PFKnxwUVTal34F7lPsBeMMxT4-8gXczwCtSjM",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun adventure",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.6808
-        }
-    },
-    {
-        "name": "Diana",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLElx6Sdmddi0N7RjPVe8UbHye2D70JnF1ms7SN8tjfB4oTew=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "I'm hooked",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Danielle Rago",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV0p9-dFxKQYHU89u5s7xUBI1MjqJGxY92vR8BF3_o8mjrLRDeU",
-        "review_rating": 2,
-        "review_likes": 0,
-        "review_snippet": "Great game but lags badly",
-        "review_date": "October 30, 2024",
-        "category": "Complaints",
-        "sentiment": {
-            "neg": 0.619,
-            "neu": 0.167,
-            "pos": 0.213,
-            "compound": -0.705
-        }
-    },
-    {
-        "name": "Jimmy Franks",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKqN_v3-M_Dcp5fovFN-wd9RUq1nMj4DzoTEc3C-m4B7sTGjg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game great experience easy money \ud83d\ude03",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.213,
-            "pos": 0.787,
-            "compound": 0.9022
-        }
-    },
-    {
-        "name": "Jo Mosley",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIKGHHYpJIwnjA7m5uz2kl0gEVshvMdlcllqaKn0RvRX3UG17A=mo",
-        "review_rating": 3,
-        "review_likes": 2,
-        "review_snippet": "Fun game, but sucks that you have to purchase in order to benefit from collecting things to make purchases. If you want a truly free experience, you will never win the tournaments because others purchase things to get them to the top 3 spots. I get it, but please don't advertise it as a free game because it's not if you want to be competitive. Also, I can't give my extra cards away because I won't link my contacts because I respect my contacts and don't want to give their info.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.066,
-            "neu": 0.625,
-            "pos": 0.309,
-            "compound": 0.9757
-        }
-    },
-    {
-        "name": "Eric Clay",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKclHK4iCMeJlDa_l9W9K09ayBPGIaOJW8vb7FUiwyN9-cdrQ=mo",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Cool",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.3182
-        }
-    },
-    {
-        "name": "Idah Mavhima",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJXHLkWIDu9QSFQiM61dRYeuZYFNrJMLcGlpNwZlflYMeTWUw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "I enjoy playing this game very much. Beautiful game, lots of free gifts.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.391,
-            "pos": 0.609,
-            "compound": 0.9096
-        }
-    },
-    {
-        "name": "Linda Thurber",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWMTR8kEhtMRCPrVx5EL50_oOanBnmPcVumkTAzb-Qt6FG4vnwccw",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun game",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.233,
-            "pos": 0.767,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Steven Short",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW9r9jY6CRvlYOUuXwi35lNGm7RWl72krkKniqYGeWS8RCjZDg",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Easy to play",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.159,
-            "pos": 0.841,
-            "compound": 0.6486
-        }
-    },
-    {
-        "name": "Lynnelle Cox",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXuUSrSR9j8AkL0kBp0dLAWZC9g7eKK7kY1ToXnqTt1ipc041c",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it!",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.182,
-            "pos": 0.818,
-            "compound": 0.6696
-        }
-    },
-    {
-        "name": "Cory L.O.V.E",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVhvDiDi-kS3ZPXqxxWnShMuAhTAhj4VzMmhmUKKvkf5zc_xnJx",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "It's definitely a fun game to pass time, if you are looking to calm a vivid mind, highly recommended.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.556,
-            "pos": 0.444,
-            "compound": 0.8553
-        }
-    },
-    {
-        "name": "Lacey Lundy",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLoqu0vDeApOaANGF2uIuKxMytr94Yzj__ZgR3UsXYlTzek-w=mo",
-        "review_rating": 5,
-        "review_likes": 367,
-        "review_snippet": "This game reminds me of coin master but so much better! I love the graphics, the competition, and the addictive qualities. You can play free and actually advance in this game. I have to admit though that I have purchased a few small packs. There's always something to do, from building up your towns to advancing in the constant tournaments. A+++ 100%!!! Edit: a month later and I'm still playing this game every day. I also had a small issue with a purchase and reached out. Great customer service!",
-        "review_date": "October 30, 2024",
-        "category": "Bugs",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.703,
-            "pos": 0.297,
-            "compound": 0.9859
-        }
-    },
-    {
-        "name": "Esk Raj",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocK_ZQnryXH5uoH8AUPeURVGO0HhlqZMILI74Vzl1yOnpEXxFw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Puzzle game is stuck.clear",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Patricia Banker",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKO7JGooSr1mNzHegG2oPRSPs_Oja7DBSNHU3ORrXJ9taH2rA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great fun exciting",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.891
-        }
-    },
-    {
-        "name": "Robert Smith",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVyU8FisNTnMQS5TLZTbanDZW9dibGKpnfJdHMenB6SaMECQZs",
-        "review_rating": 1,
-        "review_likes": 0,
-        "review_snippet": "I'm changing my rate. This game takes a really long time to load. Then while playing this game it will shut down. Constantly getting bombarded with advertisements. I've already have done what you said to do and haven't heard back. Now I can't even get on the game to play. It's already on the lowest setting. So it still is shutting down.I know I won't spend another dime on this game until you wake up and fix this constant shut down glitch.",
-        "review_date": "October 30, 2024",
-        "category": "Bugs",
-        "sentiment": {
-            "neg": 0.031,
-            "neu": 0.918,
-            "pos": 0.051,
-            "compound": 0.1531
-        }
-    },
-    {
-        "name": "Tyson Newton",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXFq4njbjYhmSwjrHVa-T2c0LSjXqEzQm9KJtJDC-P7QbVM3oSi",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Awesome",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Jetta Wilkerson",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUTpbsCfczH8_nsQ-b9QfhByhQFHEHpaAaW67DA3rL_nG3ty5JcaQ",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun to play",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.149,
-            "pos": 0.851,
-            "compound": 0.6908
-        }
-    },
-    {
-        "name": "Thomas Sims",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLxsBMkvJ-szONW2KA0ZdlJVXZVIISstMEpgkC4L-5BosjiOXnQ=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Dale Cote",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIWbO3eX6SZxEHCCqp0gDwTvt0ZixIo_MJluMTmNK32cDZDlw=mo",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Good",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.4404
-        }
-    },
-    {
-        "name": "Thomas Phoka",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKDHmluo0ubOfX_-bKtEQIiqBrYFafcPhOM2Kc9Lv886GsyQw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "It's easy and simple",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.508,
-            "pos": 0.492,
-            "compound": 0.4404
-        }
-    },
-    {
-        "name": "Bloody kid",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJp7v0ii5V9wQ7i9qKo1QTNXxgVmPvncswQwtzu9XdFDKBY3g=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Dice dream it's the best and rewarding game ,the challenge to move from one level to another makes the game to be fun and enjoyable while playing I really recommend the game.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.515,
-            "pos": 0.485,
-            "compound": 0.9623
-        }
-    },
-    {
-        "name": "Sheneshia Williams",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUzAWHQbT0DdEdgcYcUpdnSi6uM6QyUFAgjmGoXOpgFIByxUwoN2A",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "great I make money on mist play just playing this game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.458,
-            "pos": 0.542,
-            "compound": 0.8074
-        }
-    },
-    {
-        "name": "Regina Johnson",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUrtwl4vfzYK3zjtdjKSCgsKZBlcrOEXtVoXaWvbCXSljE2qeo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "I like playing",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Kristina Mcarthur",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW2mggHfcqHQqTKCOZ3OuZ-8Q5MHmZKsV4XH0aZ6oClfWKw2DSN",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "It's pretty cool \ud83d\ude0e",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.154,
-            "pos": 0.846,
-            "compound": 0.6705
-        }
-    },
-    {
-        "name": "Sharon Gravel",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVVemE_QXQCOGdQG-mWy1SlTGaMk_xwav4me0fBrNgGW0OG-9oE",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun start forward fun with friends especially",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.292,
-            "pos": 0.708,
-            "compound": 0.8658
-        }
-    },
-    {
-        "name": "Kevin Hanson",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWNdG4grDcSuypTba0Ay_VpLRPsBt7TseqymhWeMQktvT4r6g7_",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Awesome",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Trizy Martin",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUGB1STwyTtaXS97uleBu5Q5YrKXqxVSceciX_8-_mq5SO5JgqK",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Excellent",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5719
-        }
-    },
-    {
-        "name": "Winfred Watson",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIi2gxiYt2iJczz7-NgcN4GVVEKtU2CIlD3l5gEKLLz2J5EHA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love this game, and I'm playing it again. Here I am back from I don't know how long October 30, 2024.",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.739,
-            "pos": 0.261,
-            "compound": 0.7184
-        }
-    },
-    {
-        "name": "keshi zerro",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJpUIENoel-Qjw6VsDR_8iL6zX7ujqSDxw9-Lx20EbsWRZG5w=mo",
-        "review_rating": 3,
-        "review_likes": 1,
-        "review_snippet": "The game is fine. It's basically Monopoly GO but here is the average experience. Open game, get 8 pop ups in a row asking you to but things, invite friends and give you daily rewards(some free some a few dollars a pop). Finally get to play the game. The game constantly grinds to a halt when you have to do one of the minigames. When you run out of rolls you get the same 8 pop ups you got when you first opened the game. The whole game has been laggy lately also.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.845,
-            "pos": 0.155,
-            "compound": 0.9325
-        }
-    },
-    {
-        "name": "glenda astley",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJZ6d5u6ewp_R4ucbvaGdLwNk2JhKCHTE898237Y3luHuGgwQ=mo",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Enjoying the game, as time progresses still good to play. To reach a 5 would like to know how to get friends, and I don't always get the number of free rolls I should do, which is abit annoying.",
-        "review_date": "October 30, 2024",
-        "category": "Complaints",
-        "sentiment": {
-            "neg": 0.055,
-            "neu": 0.534,
-            "pos": 0.411,
-            "compound": 0.936
-        }
-    },
-    {
-        "name": "Kyle Kostelecky",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXz7VtAcmniJWZbk6QIw2M5QRaow6KY8oprEAi_wDxOJSWzjXar",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "I enjoy this game alot I'm not sure why.! But I do! It makes me laugh",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.074,
-            "neu": 0.548,
-            "pos": 0.378,
-            "compound": 0.7966
-        }
-    },
-    {
-        "name": "David Meigh",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjX80AmJoxgdPu9VxfEvxLH9Tl9UizVg5LI8hTm2VVvi4XFnwHI",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game for all ages",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.494,
-            "pos": 0.506,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Ash Barr (Char)",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWEYJu7MNxi1Xj-3iN5zTWgCjJP2w4Fc8KZMyhnilOmgxtUcZNc",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "I absolutely love this game but the new update makes it crash what's going on",
-        "review_date": "October 30, 2024",
-        "category": "Crashes",
-        "sentiment": {
-            "neg": 0.194,
-            "neu": 0.656,
-            "pos": 0.15,
-            "compound": -0.2031
-        }
-    },
-    {
-        "name": "Nicole Gomez",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ_l0qUgWzKSernDw5jTfC21eF3ndWcN-3tKett5zFqJ9hMHg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "I'm really liking this game alot, It's alot of fun that ibget hooked on ut once I start playing and dint know when ti get off cause very addicting",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.755,
-            "pos": 0.245,
-            "compound": 0.796
-        }
-    },
-    {
-        "name": "Michael Rhine",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVT90z60Slt5YyoVxN1scu1KAq-SqPKnue7GBWQ6FtsgRoqKyjj4A",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Love this game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.323,
-            "pos": 0.677,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Becca Turner",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXS6iJOkXJs5x8OrD6-6l_qm9zziwnZj4ieBF3vzQh0XATi6p7kdA",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Addicted idk why",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.412,
-            "neu": 0.588,
-            "pos": 0.0,
-            "compound": -0.1027
-        }
-    },
-    {
-        "name": "steven Sorrells",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJIQWeWbTuVnQBWjnsmYfkKYRQMTc0gfj-kbgIOJcdRYXZAMQ=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love this game \ud83c\udfae thank you for the view",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.472,
-            "pos": 0.528,
-            "compound": 0.7717
-        }
-    },
-    {
-        "name": "Shereela",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJqs2-Yz4QvI8OcKhJILt9tmVmTeJLvExnbIYk65Xvo-QB5GA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it so far.",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.417,
-            "pos": 0.583,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Uzma Farooq",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJnP5VomnvF4yMEJNogGrJbtf5CftMgoFZAajb3MBrznRTN-_HL=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Very interesting game.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.401,
-            "pos": 0.599,
-            "compound": 0.4576
-        }
-    },
-    {
-        "name": "Siahntae Samuel",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJh6vGtxjHNI95BhLq_E5T0gMcKH52wHGTajswGdvcHk9gVMw=mo",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Everything gets to expensive but good game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.609,
-            "pos": 0.391,
-            "compound": 0.5927
-        }
-    },
-    {
-        "name": "Jason Feld",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV5-ZFdSu6Q6QdDAdbftgna1UEXeyKSdt2V-yaHGqe0_LgvpP8",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Amazing game super smooth",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.206,
-            "pos": 0.794,
-            "compound": 0.8271
-        }
-    },
-    {
-        "name": "Christina Rodriguez",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV5iuECLQQl6ULfRUrs40fid3D541ZGAbfUcpjxRJyqSQblKAvl",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.192,
-            "pos": 0.808,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Aliya Harrell",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocL7XEonseCAX05ip8XLhD3KksFstkCFedEk5f8lVe9uoD6Qtg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.192,
-            "pos": 0.808,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Nicole Sims",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ9gK_WSkYjm04ymyoHGwB8wODoyfRDktfVahx_lLysQpgQZg=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game...",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.196,
-            "pos": 0.804,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Ciara",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIrdL-ackGX_--IM29C0lgLXpD8_uS9qfoj2WdEpWEo8AWKjA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Super fun! Even without purchase, gives you enough of what you need to play with extras",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.568,
-            "pos": 0.432,
-            "compound": 0.8718
-        }
-    },
-    {
-        "name": "Jessica Valloni",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXTXhOQORgLlXgDY-yyi9SsI2DbyRoiOsznC2ovAYUworBBSnNiLg",
-        "review_rating": 3,
-        "review_likes": 0,
-        "review_snippet": "Easy to play, fun distraction",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.213,
-            "neu": 0.082,
-            "pos": 0.705,
-            "compound": 0.7184
-        }
-    },
-    {
-        "name": "Christopher Snavely",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocKFMwiB4mpPXacjqkVPEHKyQFCqEUrSn43tBQ0KRJk9lrgQwA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "It's good",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.256,
-            "pos": 0.744,
-            "compound": 0.4404
-        }
-    },
-    {
-        "name": "Oleskool Mack",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUsi5yUeUhKbIjdsouHuynps3l2sHpMl-gZwudwPyk55Dl_dM5How",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "love this game it helps pass time by",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.469,
-            "pos": 0.531,
-            "compound": 0.7783
-        }
-    },
-    {
-        "name": "Brookanne Kennah",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXWmF0W-SzjGgJag3n1YlKSkh5ylXQ5j-8a-aO2Up9SWETpMj9t",
-        "review_rating": 3,
-        "review_likes": 0,
-        "review_snippet": "I have not been able to recive my gifts sent to me through fb messenger and don't know what's going on with the glitches... Twice I have spun 5000 on cupid trail and it froze on me... I didn't get the remaining after I had to close it and re open it. My winnings disappeared. Getting old!",
-        "review_date": "October 30, 2024",
-        "category": "Bugs",
-        "sentiment": {
-            "neg": 0.034,
-            "neu": 0.9,
-            "pos": 0.067,
-            "compound": 0.4389
-        }
-    },
-    {
-        "name": "Mort",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLlZ4yssa05LmqOtdaRn8RV2i4DlTZF_p_MDrGk0Qt7D7t3tQ=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Arny Nortje",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLbiTnTHlsPE5Z6gQieJZzyKC-sF0VYfdKbOoNleUtK1EBddA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.192,
-            "pos": 0.808,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Leilani Doell",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVPPagxW4wLQt3SpnFJ5qcqgKUYK8qANuQihWFuXOuWThEIhhc23w",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Easy fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.7351
-        }
-    },
-    {
-        "name": "Janice Bonilla",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWcbhKDa3AiT_e_hq4px7EoMCy9oLfmjbt6D8KmhyUArYiBYIyr",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun game.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.233,
-            "pos": 0.767,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Moez Triki",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXPB6veQr5JZumXzBbTIC8y6WnDE1yV0tDSihjg0QpHmqUZJi-X",
-        "review_rating": 2,
-        "review_likes": 0,
-        "review_snippet": "Addictive game in the beginning then at a certain level it becomes so hard to progress in the game. It's all based on luck. You have to wait one hour to get few rolls to be able to play for a few seconds. Last but not least, they ask you to invite friends to play the game in order to get big rewards. When you do, in 50% of the cases you don't get the rewards advertised.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.016,
-            "neu": 0.713,
-            "pos": 0.271,
-            "compound": 0.9694
-        }
-    },
-    {
-        "name": "Suicide Kings",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLCgl5VMV341df-p02q06xfEgnlbO_86D4UBLz0uilwSkQOgA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Hi \u00f1 just 7",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Joseph Riley",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJOMgskEAsBR5PC0QtuZnBWBzMD2KojtjRzGsA2jczhj5BNXA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun times",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.233,
-            "pos": 0.767,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Crystal Anthony",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVRDBcNaAD99ZJdG9s5QfVg-IfSJ_mYKlfHN9_oh21_k0DDQNyP",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Chill Bill",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVMdWKO1JurTX9xK2fcWfOozoeqGMrBhhRF2V9RidMG2ztJynDO",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Cool game",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.303,
-            "pos": 0.697,
-            "compound": 0.3182
-        }
-    },
-    {
-        "name": "DAVON Payne",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJli96Xi828EJj4eX7iQLf5Z1GmvjzHYy71WrOI-1wHYeQyiw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.192,
-            "pos": 0.808,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Katrise Streaty",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJeuQLrXCybfEa9bwdGSKtrKhRq8yJSUfj7-jajmVwZnHb3jw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun game.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.233,
-            "pos": 0.767,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Abel Gaming",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUHf0OO4uTidiIt-ERC0oog-Q9nvI8HjQGW_kx-dNY32BYd3SUiaQ",
-        "review_rating": 2,
-        "review_likes": 1,
-        "review_snippet": "i lost my tournament rewards 2 times. and believe me, im not the only one.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.14,
-            "neu": 0.671,
-            "pos": 0.189,
-            "compound": 0.2023
-        }
-    },
-    {
-        "name": "Russell Smith",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ8cNSYmUw8-UsFKw-zskV2ItfpW2PluU83G9Ycf110qNI8-g=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great work",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.196,
-            "pos": 0.804,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Deseray Toodles",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIOwnVJOiCr6bZPvlVr6U0ldaC9Ol-3A85nPWnfrpYbwI1QVQ=mo",
-        "review_rating": 2,
-        "review_likes": 0,
-        "review_snippet": "Stars off fun till get to the middle of phase two and can't go any further unless you have lots of friends who will accept your invitation. So no this is a scheme about networking with a cute game.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.054,
-            "neu": 0.688,
-            "pos": 0.258,
-            "compound": 0.8593
-        }
-    },
-    {
-        "name": "Sean Ramsdell",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLmKISD7Og70P_S6PJmmf8oHWo_zKt9khvKSFYZYSdcz5Nnmw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Glad it's free to continue for a while!",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.431,
-            "pos": 0.569,
-            "compound": 0.7644
-        }
-    },
-    {
-        "name": "Zel Sred",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIPugPu16Cts69PLsR24EDi0-iUzVWatsJgCwrj_14akiucXw=mo",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Playing this game uplifts me with positive thinking. It's a laid back happy game.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.524,
-            "pos": 0.476,
-            "compound": 0.8442
-        }
-    },
-    {
-        "name": "Tyrone \u201cBig\u201d Bartholomew",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIZn3QU3-mLtgC-KYWXGUdq-E-MysdAxkm4ThyiY7rwDzwFLVY=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.196,
-            "pos": 0.804,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Aiden Patterson",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWGIw5VRwQEW-H4tbkWBgyfHRUwPaM5PV0u9qsD24x4aXubV9k",
-        "review_rating": 1,
-        "review_likes": 1,
-        "review_snippet": "Can't even roll the dice without 100 money hungry pop ups coming onto my screen trying to get me to purchase things. Game is very unplayable.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Sabrina Lopez",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXmZ_-MxymwP66xPf_J_AJmc-iMrkGpW1Ay6_dNxdTWSpnmdGQV",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun cool",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.6808
-        }
-    },
-    {
-        "name": "bara bullhead",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWXfu6hZCEE0tsLGJf-82joBDoqFujKS8Ngzw2a-8CLHeh5nVM",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Having fun so far",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.476,
-            "pos": 0.524,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Leslie Ott",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUZLElP1-G2PsAE4NnuMrlmA_3tZnR-ffHF067be1cqIJoC_H3c",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Update: after playing for a while, im really enjoying this game. So far I am enjoying this game. Will update once I've plaged for a longer time.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.696,
-            "pos": 0.304,
-            "compound": 0.8476
-        }
-    },
-    {
-        "name": "David Rosado",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIR6ivOTY5yRdddezfqrrRY6bXiuZAIzJuSlcQ9AkZXG4PaDQ=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.196,
-            "pos": 0.804,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "\u05d0\u05de\u05d9\u05e8 \u05d0\u05d5\u05d7\u05e0\u05d5\u05df",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXJR25y9MX_KzFGQM44FrtBfYUzJXF-BPILaRYlAf0wCSbI_wk18Q",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "This game is awesome",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.423,
-            "pos": 0.577,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "da'von wilson",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXP7a9wuVHhA_x7mDxuBFfmxH69-9yACiDQyJ5xo2aiUNBv9OY",
-        "review_rating": 1,
-        "review_likes": 1,
-        "review_snippet": "Not worth your time. Game has too many obnoxious pop ups and ads. Randomly freezes and kicks you out in the middle of playing. Super basic game and customer service is severely lacking. Don't waste your time.",
-        "review_date": "October 30, 2024",
-        "category": "Crashes",
-        "sentiment": {
-            "neg": 0.187,
-            "neu": 0.641,
-            "pos": 0.172,
-            "compound": 0.0685
-        }
-    },
-    {
-        "name": "Rhonda Hardcastle",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVede7KTe3T_RFDxVOesHB-RxzGBpyoKilaAQddPik_ZL1DlE8",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "I enjoy the game. I really think the character is cute when it \"steals\". My least favorite part is the \"fight\". Silly.. overall it's great though!",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.075,
-            "neu": 0.605,
-            "pos": 0.32,
-            "compound": 0.8447
-        }
-    },
-    {
-        "name": "Amy Thompson",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUOITMFCOlEJZZ7vREWU7bPalS3ZE568FSzyxBiMweVOE9rn9_9Xg",
-        "review_rating": 2,
-        "review_likes": 1,
-        "review_snippet": "Frustrated by the pet thing. Been playing for over a year but still can't get it. Must have to pay. I also have noticed I don't always receive the rewards from the date to scare thing. 50 for pet food today. That and the bonus videos will be there as long as I doubt close the app. When i do they are gonewhen I open it again, even with 18 hrs left.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.141,
-            "neu": 0.732,
-            "pos": 0.128,
-            "compound": -0.0129
-        }
-    },
-    {
-        "name": "Jen S.",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocLUlF_eGNnqur3YdrrpQhYZaCAteWbbUKvm_VeYQejQrJ3gKyeB=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Super Fun!",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.8172
-        }
-    },
-    {
-        "name": "John",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVP1uhc8i7LKtSGPoVnWIIL-rNKMal4JNNjH2xjBK9cRcvOnN9imQ",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun game",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.233,
-            "pos": 0.767,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Walter Ivy",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJ7b1ifZ3A1B7WcFMvUTE7khKXVfshbzDcltUbHAgEgUCeOlw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Kool game",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "Maeson",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjV4MkaxwPbtLgAOzx3KOrOSrwKpj41KloN67CCjcBHrY7WNQYZe",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "It's so much fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.456,
-            "pos": 0.544,
-            "compound": 0.5542
-        }
-    },
-    {
-        "name": "Random video",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjVZxdlyPz7Gx0ixINImSLoRpiDTnIL7Eg9e4uCbLyD0GYUANM0",
-        "review_rating": 3,
-        "review_likes": 1,
-        "review_snippet": "I already invite 7 friend for the reward, but I'm not getting rewarded",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.213,
-            "neu": 0.432,
-            "pos": 0.355,
-            "compound": 0.0793
-        }
-    },
-    {
-        "name": "Jerrita McClain",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWx9sfClI3q5Cq0yo2l7uSonstj4Hs2DqSymzAQATtxxkCs6feayg",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun game",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.233,
-            "pos": 0.767,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Scottsank Mechanic",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJbDddyURGWIeuBoc9O5zosG9kuHwAZZqWojnVB-w8v3PaTSw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "shanee bulger",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUudDqNJd6cch42hq9eBQtYF9jR5PUjdTEYbb5VKqKahSfYf5c",
-        "review_rating": 4,
-        "review_likes": 0,
-        "review_snippet": "Addicted to this game which I could always have more than I have with rolls!",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 1.0,
-            "pos": 0.0,
-            "compound": 0.0
-        }
-    },
-    {
-        "name": "D Sanchez",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWBL6Ih8mDzFQtwmU1X0iCV6nx0iv83xGmwhM4r8_gFKIqmK0wUAA",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Amazing App....",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.208,
-            "pos": 0.792,
-            "compound": 0.5859
-        }
-    },
-    {
-        "name": "Lashendra Patrick",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJm7wh-LFOvRKLYYLWH2AUW95KlrDn7oSLdxwO6a8lTJzRjRw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Real fun to play and keeps you coming back for more and more",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.659,
-            "pos": 0.341,
-            "compound": 0.6908
-        }
-    },
-    {
-        "name": "owoade temitope",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjUr6KNw_3gEH8eZOFwVI_2lhQl4blzT7Dl2-ILi92FX5VcAenLb",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Interesting",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.4019
-        }
-    },
-    {
-        "name": "Tina Lopes",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXP1QXOGVZtWBAzwPTSN4R14lCSZZwuvLGCPL95IPd0HQyUlZ6y",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Lots of fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.377,
-            "pos": 0.623,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Melanie Miller",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWltErLiN_rIEBrmle3AgMrgGI6oIquE7eouF0GYWpW1HwM04Q",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game, clears your head for a few minutes!",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.513,
-            "pos": 0.487,
-            "compound": 0.69
-        }
-    },
-    {
-        "name": "Kellz Hohl",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWYjYATgvq2tpL1mS6t8gxgeORMP58XIJkPsVNoq3XK7wB-8nOC",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Game is very cute and fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.368,
-            "pos": 0.632,
-            "compound": 0.7818
-        }
-    },
-    {
-        "name": "Kristen Vanlandingham",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWoY3LzDn5aXms9dvvd7BTvYsX7xcByeqUDSTrTnVDkp12EKQwgXg",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "It's a lot of fun to play.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.412,
-            "pos": 0.588,
-            "compound": 0.6908
-        }
-    },
-    {
-        "name": "Michele Ruggles",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocJszVRc7UktHMn7Rs2Lt9mxv9HFfgZwI9-rdi0mApzNMJzR4g=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "Kathryn Dunagan",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIF9zwtix1EpDlHgUnzdfspKtZK5cdivbnjIUPB1xDcliEscw=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun game. I like the characters.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.341,
-            "pos": 0.659,
-            "compound": 0.7003
-        }
-    },
-    {
-        "name": "Sandra",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW1L0deNykfho1nS6Lrw6xeJpDTQg84zO5MWZWlOF7BbqXzVtzQ",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Fun and easyway to pass the time.",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.645,
-            "pos": 0.355,
-            "compound": 0.5106
-        }
-    },
-    {
-        "name": "NMN NMN",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXqcksSAVvBTm73IA8JiEvlxv3Hvko9Ar1R5tAtteM5CBa5_v_Y",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Cool banana",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.303,
-            "pos": 0.697,
-            "compound": 0.3182
-        }
-    },
-    {
-        "name": "Italia",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW_iJb8OzQVHpRl33oisVLaOW2f2eNz2o0em4rUDya1_c_ITrFthg",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Love it awesome game Ty so much fun \u263a\ufe0f still loving it \ud83d\ude00",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.276,
-            "pos": 0.724,
-            "compound": 0.9606
-        }
-    },
-    {
-        "name": "Nicole Scott",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjXmJcx50YamD73xNQEo027qsiIVaseUMpPrUYRXwc5xJyp13gvHRw",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "love it",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.192,
-            "pos": 0.808,
-            "compound": 0.6369
-        }
-    },
-    {
-        "name": "Donnell Hobbs",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjWwKktyCB553suVYYIbgQdIUTqbsqRB-9V6Pn0Q21WXH11HEBPg",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Ok",
-        "review_date": "October 30, 2024",
-        "category": "Other",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.0,
-            "pos": 1.0,
-            "compound": 0.296
-        }
-    },
-    {
-        "name": "Lanny Trudell",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIyYbpdeHordf6KKlGagUwD00QLbJxBCsHEN-Z70P7z58e9AA=mo",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "Great game",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.196,
-            "pos": 0.804,
-            "compound": 0.6249
-        }
-    },
-    {
-        "name": "Carmella Gonzalez",
-        "avatar": "https://play-lh.googleusercontent.com/a/ACg8ocIs_VvJyeKvdVfyYe8WB2IiqGLzkHsFyvyo9VaKRiZIIMjvVA=mo",
-        "review_rating": 1,
-        "review_likes": 121,
-        "review_snippet": "Sadly, I find that it necessary to make this review. While fun at first, the game has become little more than a money grab. Your ability to play is all but fully governed by how much you are willing to \"pay to play\" which pretty much takes the fun out of it. EDIT: The response is obviously a canned one, as it in no way addresses the issue raised \ud83d\ude1e",
-        "review_date": "October 30, 2024",
-        "category": "Bugs",
-        "sentiment": {
-            "neg": 0.078,
-            "neu": 0.707,
-            "pos": 0.215,
-            "compound": 0.9011
-        }
-    },
-    {
-        "name": "Jessica Williams",
-        "avatar": "https://play-lh.googleusercontent.com/a-/ALV-UjW-R3T1JYPaWCCual35zrztHvemqrkBShVQEPn1L5SxVP_9mvfP",
-        "review_rating": 5,
-        "review_likes": 0,
-        "review_snippet": "I love playing on my phone I'm enjoying it \ud83d\ude0e",
-        "review_date": "October 30, 2024",
-        "category": "Praises",
-        "sentiment": {
-            "neg": 0.0,
-            "neu": 0.347,
-            "pos": 0.653,
-            "compound": 0.8555
         }
     }
 ]
