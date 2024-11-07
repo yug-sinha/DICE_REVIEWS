@@ -15,9 +15,6 @@ Due to my limited experience with AWS Amplify, I was'nt able to succesfully depl
    - If `fetch.json` does not exist or was not created today, it runs the scraper to fetch the latest reviews from the Google Play Store and saves them to `fetch.json`.
    - This logic wont work when you will try to run this locally as it will presume that the fetch.json file was created today, because it would have been downloaded on the same day from the git repository so you will have to delete the current fetch.json file and then launch the application (MAKE SURE TO USE YOUR OWN API KEY).
 
-# Video Demonstration: How to get SerpAPI key
-https://youtu.be/-H9yN_jl4FQ?si=hWX34mclXiRuoC5K
-
 2. **Implementation of `classify_reviews.py`**:
    - This script loads the reviews from `fetch.json`.
    - It classifies each review into categories such as Bugs, Complaints, Crashes, Praises, and Other based on keywords.
@@ -30,6 +27,9 @@ https://youtu.be/-H9yN_jl4FQ?si=hWX34mclXiRuoC5K
    - The Flask server serves the `index.html` file and provides an endpoint to access the classified reviews (`/classified-reviews`).
 
 This sequence ensures that the application always has the latest reviews, classifies them appropriately, and makes the results accessible through a web interface.
+
+# Video Demonstration: How to get SerpAPI key
+https://youtu.be/-H9yN_jl4FQ?si=hWX34mclXiRuoC5K
 
 ## Table of Contents
 
