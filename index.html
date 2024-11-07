@@ -72,11 +72,21 @@
                 filterDate.appendChild(option);
             }
 
-            // Fetch and display all reviews on page load
+            // Fetch and display reviews from the last 7 days excluding today
             fetch('/classified-reviews')
                 .then(response => response.json())
                 .then(data => {
-                    displayReviews(data);
+                    const filteredReviews = data.filter(review => {
+                        const reviewDate = new Date(review.review_date);
+                        reviewDate.setHours(0, 0, 0, 0); // Normalize the review date to midnight
+                        const sevenDaysAgo = new Date(today);
+                        sevenDaysAgo.setDate(today.getDate() - 7);
+                        sevenDaysAgo.setHours(0, 0, 0, 0); // Normalize the date to midnight
+                        console.log(`Review Date: ${reviewDate}, Seven Days Ago: ${sevenDaysAgo}, Today: ${today}`); // Debugging line
+                        return reviewDate >= sevenDaysAgo && reviewDate < today;
+                    });
+                    console.log('Filtered reviews:', filteredReviews); // Debugging line
+                    displayReviews(filteredReviews);
                 })
                 .catch(error => console.error('Error loading reviews:', error));
         });
@@ -92,8 +102,10 @@
                         reviewDate.setHours(0, 0, 0, 0); // Normalize the review date to midnight
                         const selectedDate = new Date(filterDate);
                         selectedDate.setHours(0, 0, 0, 0); // Normalize the selected date to midnight
+                        console.log(`Review Date: ${reviewDate}, Selected Date: ${selectedDate}`); // Debugging line
                         return (filterCategory === 'all' || review.category.toLowerCase() === filterCategory) && (filterDate === 'all' || reviewDate.getTime() === selectedDate.getTime());
                     });
+                    console.log('Filtered reviews:', filteredReviews); // Debugging line
                     displayReviews(filteredReviews);
                 })
                 .catch(error => console.error('Error filtering reviews:', error));
