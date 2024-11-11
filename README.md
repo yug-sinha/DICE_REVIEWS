@@ -241,18 +241,7 @@ https://github.com/user-attachments/assets/1bfff606-b0ce-45de-aa56-0d6b68ab0989
 ---
 
 Source: Conversation with Copilot, 11/6/2024
-- Calculate Web App Development Cost On Your Own in 2024 - Monocubed. https://www.monocubed.com/blog/web-app-development-cost/.
-- How Much Does Web Application Development Cost in 2025. https://www.technbrains.com/blog/web-application-development-cost/.
-- Submitting Applications - Spark 3.5.3 Documentation - Apache Spark. https://spark.apache.org/docs/latest/submitting-applications.html.
-- Spark Submit Command Explained with Examples. https://sparkbyexamples.com/spark/spark-submit-command/.
-- Setting Up Your Submission Call: A 10-Step Checklist. https://blog.submittable.com/setting-up-your-submission-call-a-10-step-checklist/.
-- Running Spark on Kubernetes - Spark 3.5.3 Documentation - Apache Spark. https://spark.apache.org/docs/latest/running-on-kubernetes.html.
-- Create examples of request responses to illustrate API use cases. https://learning.postman.com/docs/sending-requests/response-data/examples/.
-- REST API Tutorial – REST Client, REST Service, and API Calls Explained .... https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/.
-- Sample API requests - Microsoft Cloud for Retail. https://learn.microsoft.com/en-us/industry/retail/intelligent-recommendations/sample-api.
-- Mastering API Responses: The Definitive Guide to JSON Formatting. https://apidog.com/blog/json-api-responses/.
-- Sample API Requests | YouTube Data API | Google for Developers. https://developers.google.com/youtube/v3/sample_requests.
-- undefined. https://official-joke-api.appspot.com/random_joke.
-- undefined. https://bing.com/search?q=.
+
+I have used ChatGPT, Microsofts Copilot AI, Blackbox AI, YouTube, SerpAPI, and StackOverFlows help to build this application
 
 ---
