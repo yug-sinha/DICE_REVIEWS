@@ -17,8 +17,7 @@ Due to my limited experience with AWS Amplify, I was'nt able to succesfully depl
    - Place your API key in scrape_reviews.js at this line:
    - ```sh
      const apiKey = 'YOUR_API_KEY_HERE';
-   ```
-
+     ```
 
 2. **Implementation of `classify_reviews.py`**:
    - This script loads the reviews from `fetch.json`.
