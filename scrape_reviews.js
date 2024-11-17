@@ -2,7 +2,11 @@ const { getJson } = require("serpapi");
 const fs = require('fs');
 const { DateTime } = require('luxon');
 
+<<<<<<< HEAD
 const apiKey = '08f56f0f0bf04fd55339a7e4a3f5879e7b6bcc4daa33bb1065af9dcd47f1c827';
+=======
+const apiKey = 'YOUR_API_KEY_HERE';
+>>>>>>> 0ea3b078d75f787f72f2ee118832ca81a19b97a7
 const productId = 'com.superplaystudios.dicedreams';
 
 const params = {

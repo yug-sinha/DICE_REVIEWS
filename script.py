@@ -21,6 +21,7 @@ def file_created_today(file_path):
     if os.path.exists(file_path):
         creation_time = os.path.getctime(file_path)
         creation_date = datetime.datetime.fromtimestamp(creation_time).date()
+        print(f"fetch.json creation date: {creation_date}")
         return creation_date == datetime.datetime.today().date()
     return False
 
