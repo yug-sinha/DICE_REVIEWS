@@ -29,48 +29,6 @@ This sequence ensures that the application always has the latest reviews, classi
 # Video Demonstration: How to get SerpAPI key
 https://youtu.be/-H9yN_jl4FQ?si=hWX34mclXiRuoC5K
 
-## Table of Contents
-
-- Installation
-- Usage
-- Project Structure
-- Scripts
-- Dependencies
-- API Endpoints
-- Setup and Run Locally
-- Cost Estimation
-- License
-- Credits
-
-## Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yug-sinha/DICE_REVIEWS.git
-   cd DICE_REVIEWS
-   ```
-   - might throw a few errors, can be ignored
-
-2. **Install Python dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Install Node.js dependencies:**
-   ```sh
-   npm install
-   ```
-
-## Usage
-
-1. **Run the main script:**
-   ```sh
-   python script.py
-   ```
-
-2. **Access the web application:**
-   Open your browser and go to `http://localhost:5000/`.
-
 ## Scripts
 
 ### scrape_reviews.js
