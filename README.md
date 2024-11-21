@@ -52,16 +52,12 @@ This script orchestrates the execution of `scrape_reviews.js` and `classify_revi
 - **SerpAPI**: For scraping reviews from the Google Play Store.
 - **Luxon**: For date manipulation in JavaScript.
 
-## API Endpoints
-
-### GET /
-
 ## Setup and Run Locally
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yug-sinha/DICE_REVIEWS.git
-   cd DICE_REVIEWS
+   git clone https://github.com/yug-sinha/PLAY_REVIEWS.git
+   cd PLAY_REVIEWS
    ```
 
 2. **Install Python dependencies:**
