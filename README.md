@@ -88,9 +88,3 @@ https://github.com/user-attachments/assets/1bfff606-b0ce-45de-aa56-0d6b68ab0989
 
 
 ---
-
-Source: Conversation with Copilot, 11/6/2024
-
-I have used ChatGPT, Microsofts Copilot AI, Blackbox AI, YouTube, SerpAPI, and StackOverFlows help to build this application
-
----
