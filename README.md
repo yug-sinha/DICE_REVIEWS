@@ -1,12 +1,6 @@
-# Dice Dreams Review Classifier
+# Play Store Reviews Analyser
 
-This project is a web application that scrapes reviews from the Google Play Store for the "Dice Dreams" app, classifies them into categories, performs sentiment analysis, and displays the results on a web page (please set up your own SerpAPI key in the scrape_reviews.js file).
-
-Due to my limited experience with AWS Amplify, I was'nt able to succesfully deploy the application. However, the application is now deployed partially with just its frontend and can be accessed via the following URL:
- - URL: https://main.d31wt9c9s96zr2.amplifyapp.com/
-  - Username: segwise.yug
-  - Password: yug8086
-
+This project is a web application that scrapes reviews from the Google Play Store for any app(you just need to out the playstore APP ID), classifies them into categories, performs sentiment analysis, and displays the results on a web page (please set up your own SerpAPI key in the scrape_reviews.js file).
 
 # Logic of the Web Application
 1. **Implementation of `scrape_reviews.js`**:
@@ -77,28 +71,6 @@ https://youtu.be/-H9yN_jl4FQ?si=hWX34mclXiRuoC5K
 2. **Access the web application:**
    Open your browser and go to `http://localhost:5000/`.
 
-## Project Structure
-
-```
-dice_dreams/
-│
-├── model/
-├── node_modules/
-├── results/
-├── venv/
-├── classified_reviews.json
-├── classify_reviews.py
-├── download_nltk_data.py
-├── fetch.json
-├── index.html
-├── package-lock.json
-├── package.json
-├── Procfile
-├── requirements.txt
-├── scrape_reviews.js
-└── script.py
-```
-
 ## Scripts
 
 ### scrape_reviews.js
@@ -126,57 +98,6 @@ This script orchestrates the execution of `scrape_reviews.js` and `classify_revi
 
 ### GET /
 
-**Request:**
-```sh
-GET http://localhost:5000/
-```
-
-**Response:**
-- **200 OK**
-  ```html
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Dice Dreams Reviews</title>
-  </head>
-  <body>
-      <h1>Welcome to Dice Dreams Reviews</h1>
-  </body>
-  </html>
-  ```
-
-### GET /classified-reviews
-
-**Request:**
-```sh
-GET http://localhost:5000/classified-reviews
-```
-
-**Response:**
-- **200 OK**
-  ```json
-  [
-    {
-      "name": "Great game!",
-      "avatar": "No Avatar",
-      "review_rating": 5,
-      "review_likes": 10,
-      "review_snippet": "I love this game, it's so much fun!",
-      "review_date": "November 1, 2024",
-      "category": "Praises",
-      "sentiment": {
-        "neg": 0.0,
-        "neu": 0.5,
-        "pos": 0.5,
-        "compound": 0.8
-      }
-    },
-    ...
-  ]
-  ```
-
 ## Setup and Run Locally
 
 1. **Clone the repository:**
@@ -203,38 +124,11 @@ GET http://localhost:5000/classified-reviews
 5. **Access the web application:**
    Open your browser and go to `http://localhost:5000/`.
 
-## Cost Estimation
-
-To estimate the cost of running this system in production 24x7 for 30 days with 5 queries a day, we can consider the following:
-
-- **Hosting**: Using a service like Heroku or AWS, the cost can vary. For a basic setup:
-  - **Heroku**: Free tier available, but for production, the Hobby Dyno costs $7/month.
-  - **AWS**: EC2 t2.micro instance (free tier eligible) or around $8.50/month for a t3.micro instance.
-
-- **API Usage**: SerpAPI charges $75/month after exhausting the free tier. Given 5 queries a day, this would be sufficient.
-
-- **Total Estimated Cost**:
-  - **Hosting**: $7 - $8.50/month
-  - **API Usage**: $75/month
-  - **Total**: $82 - $83.50/month
-
 ## License
 
 This project is licensed under the MIT License.
 
-## Credits
-
-- **SerpAPI**: For providing the API to scrape Google Play Store reviews.
-- **NLTK**: For sentiment analysis tools.
-- **Luxon**: For date manipulation in JavaScript.
-- **Flask**: For the web framework.
-- **Postman**: For testing API requests and responses.
-- **ChatGPT**: For assistance in generating parts of this README.
-
 ## Video Demonstration
-https://github.com/user-attachments/assets/0b5cba2d-70b2-4ea5-a379-b0e10fe4163b
-
-
 https://github.com/user-attachments/assets/1bfff606-b0ce-45de-aa56-0d6b68ab0989
 
 
